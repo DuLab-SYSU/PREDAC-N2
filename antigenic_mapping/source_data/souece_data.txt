@@ -1,0 +1,1 @@
+Data are sequences of H3N2 and the corresponding meta information in GISAID from 1968 to October 2024
