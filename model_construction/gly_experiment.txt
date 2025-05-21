@@ -1,0 +1,2444 @@
+jobid=682D3ED0001CE4B5F6451B1D&wait=20 Server Output - DTU Health Tech
+     Asn-Xaa-Ser/Thr sequons in the sequence output below are highlighted in blue.
+          Asparagines predicted to be N-glycosylated are highlighted in red.
+
+
+Output for '0'
+
+########################################################################################
+
+    Warning: This sequence may not contain a signal peptide!!
+
+    Proteins without signal peptides are unlikely to be exposed to
+    the N-glycosylation machinery and thus may not be glycosylated
+    (in vivo) even though they contain potential motifs.
+
+    SignalP-NN euk predictions are as follows:
+
+  # name                Cmax  pos ?  Ymax  pos ?  Smax  pos ?  Smean ?  D     ? 
+  0                          0.120  36  0.153  14  0.318  34  0.233   0.185 N  0.500      SignalP-TM
+
+    SignalP output is explained at https://services.healthtech.dtu.dk/services/SignalP-4.1/
+
+########################################################################################
+
+Name:  0 	Length:  469
+MNPNQKIITIGSVSLTISTICFFMQIAILITTVTLHFKQYEFNSPPNNQVMLCEPTIIERNITEIVYLTNTTIEKEICPK      80
+PAEYRNWSKPQCGITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDPDKCYQFALGQGTTLNNVHSNNTVRDRTPYRTLLM     160
+NELGVPFHLGTKQVCIAWSSSSCHDGKAWLHVCITGDDKNATASFIYNGRLVDSVVSWSKEILRTQESECVCINGTCTVV     240
+MTDGSASGKADTKILFIKEGKIVHTSTLSGSAQHVEECSCYPRYPGVRCVCRDNWKGSNRPIVDINIKDHSIVSSYVCSG     320
+LVGDTPRKTDSSSSSHCLDPNNEEGGHGVKGWAFDDGNDVWMGRTINETSRLGYETFKVIEGWSNPKSKLQINRQVIVDR     400
+GDRSGYSGIFSVEGKSCINRCFYVELIRGRKEETEVLWTSNSIVVFCGTSGTYGTGSWPDGADLNLMPI                480
+............................................................N........N..........      80
+.....N...........................................................N..............     160
+.........................................................................N......     240
+................................................................................     320
+..............................................N.................................     400
+.....................................................................                480
+
+(Threshold=0.5)
+----------------------------------------------------------------------
+SeqName      Position  Potential   Jury    N-Glyc
+				 agreement result
+----------------------------------------------------------------------
+0             61 NITE   0.7567     (9/9)   +++   
+0             70 NTTI   0.5454     (6/9)   +     
+0             86 NWSK   0.6020     (8/9)   +     
+0            146 NNTV   0.5967     (8/9)   +     
+0            200 NATA   0.3682     (8/9)   -     
+0            234 NGTC   0.7557     (9/9)   +++   
+0            367 NETS   0.5408     (5/9)   +     
+----------------------------------------------------------------------
+
+
+
+Graphics in PostScript
+
+
+
+Output for '1'
+
+########################################################################################
+
+    Warning: This sequence may not contain a signal peptide!!
+
+    Proteins without signal peptides are unlikely to be exposed to
+    the N-glycosylation machinery and thus may not be glycosylated
+    (in vivo) even though they contain potential motifs.
+
+    SignalP-NN euk predictions are as follows:
+
+  # name                Cmax  pos ?  Ymax  pos ?  Smax  pos ?  Smean ?  D     ? 
+  1                          0.121  36  0.153  14  0.336  34  0.234   0.186 N  0.500      SignalP-TM
+
+    SignalP output is explained at https://services.healthtech.dtu.dk/services/SignalP-4.1/
+
+########################################################################################
+
+Name:  1 	Length:  469
+MNPNQKIITIGSVSLTISTICFFMQIAILITTVTLHFKQYEFNPPPNNQVMLCEPTIIERNITEIVYLTNTTIEKEICPK      80
+PAEYRNWSKPQCDITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDPDKCYQFALGQGTTLNNVHSNNTVRDRTPYRTLLM     160
+NELGVPFHLGTKQVCIAWSSSSCHDGKAWLHVCITGDDKNATASFIYNGRLVDSVVSWSKDILRTQESECVCINGTCTVV     240
+MTDGNATGKADTKILFIEEGKIVHTSKLSGSAQHVEECSCYPRYPGVRCVCRDNWKGSNRPIVDINIKDHSIVSSYVCSG     320
+LVGDTPRKNDSSSSSHCLDPNNEEGGHGVKGWAFDDGNDVWMGRTINETSRLGYETFKVVEGWSNPKSKLQINRQVIVDR     400
+GDRSGYSGIFSVEGKSCINRCFYVELIRGRKEETEVLWTSNSIVVFCGTSGTYGTGSWPDGANLNLMPI                480
+............................................................N........N..........      80
+.....N...........................................................N..............     160
+.........................................................................N......     240
+................................................................................     320
+..............................................N.................................     400
+.....................................................................                480
+
+(Threshold=0.5)
+----------------------------------------------------------------------
+SeqName      Position  Potential   Jury    N-Glyc
+				 agreement result
+----------------------------------------------------------------------
+1             61 NITE   0.7568     (9/9)   +++   
+1             70 NTTI   0.5454     (6/9)   +     
+1             86 NWSK   0.5933     (7/9)   +     
+1            146 NNTV   0.5967     (8/9)   +     
+1            200 NATA   0.3680     (8/9)   -     
+1            234 NGTC   0.7557     (9/9)   +++   
+1            245 NATG   0.4644     (6/9)   -     
+1            329 NDSS   0.4882     (5/9)   -     
+1            367 NETS   0.5407     (5/9)   +     
+----------------------------------------------------------------------
+
+
+
+Graphics in PostScript
+
+
+
+Output for '2'
+
+########################################################################################
+
+    Warning: This sequence may not contain a signal peptide!!
+
+    Proteins without signal peptides are unlikely to be exposed to
+    the N-glycosylation machinery and thus may not be glycosylated
+    (in vivo) even though they contain potential motifs.
+
+    SignalP-NN euk predictions are as follows:
+
+  # name                Cmax  pos ?  Ymax  pos ?  Smax  pos ?  Smean ?  D     ? 
+  2                          0.120  36  0.153  14  0.318  34  0.233   0.185 N  0.500      SignalP-TM
+
+    SignalP output is explained at https://services.healthtech.dtu.dk/services/SignalP-4.1/
+
+########################################################################################
+
+Name:  2 	Length:  469
+MNPNQKIITIGSVSLTISTICFFMQIAILITTVTLHFKQYEFNSPPNNQVMLCEPTIIERNITEIVYLTNTTIEKEICPK      80
+LAEYRNWSKPQCDITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDPNKCYQFALGQGTTLNNVHSNNTVRDRTPYRTLLM     160
+NELGVPFHLGTKQVCIAWSSSSCHDGKAWLHVCITGDDKNATASFIYNGRLVDSVVSWSKEILRTQESECVCINGTCTVV     240
+MTDGSASGKADTKILFIEEGKIVHTSTLSGSAQHVEECSCYPRYPGVRCVCRDNWKGSNRPIVDINMKDHSIVSSYVCSG     320
+LVGDTPRKNDSSSSSHCFDPNDEEGGHGVKGWAFDDGNDVWMGRTISEKSRLGYETFKVIEGWSNPKSKLQINRQVIVDR     400
+GNRSGYSGIFSVEGKSCINRCFYVELIRGRKEETEVLWTSNSIVVFCGTSGTYGTGSWPDGADINLMPI                480
+............................................................N........N..........      80
+.....N...........................................................N..............     160
+.........................................................................N......     240
+................................................................................     320
+................................................................................     400
+.....................................................................                480
+
+(Threshold=0.5)
+----------------------------------------------------------------------
+SeqName      Position  Potential   Jury    N-Glyc
+				 agreement result
+----------------------------------------------------------------------
+2             61 NITE   0.7567     (9/9)   +++   
+2             70 NTTI   0.5454     (6/9)   +     
+2             86 NWSK   0.5964     (8/9)   +     
+2            146 NNTV   0.5968     (8/9)   +     
+2            200 NATA   0.3682     (8/9)   -     
+2            234 NGTC   0.7557     (9/9)   +++   
+2            329 NDSS   0.4800     (6/9)   -     
+2            402 NRSG   0.4074     (6/9)   -     
+----------------------------------------------------------------------
+
+
+
+Graphics in PostScript
+
+
+
+Output for '3'
+
+########################################################################################
+
+    Warning: This sequence may not contain a signal peptide!!
+
+    Proteins without signal peptides are unlikely to be exposed to
+    the N-glycosylation machinery and thus may not be glycosylated
+    (in vivo) even though they contain potential motifs.
+
+    SignalP-NN euk predictions are as follows:
+
+  # name                Cmax  pos ?  Ymax  pos ?  Smax  pos ?  Smean ?  D     ? 
+  3                          0.120  36  0.153  14  0.318  34  0.232   0.185 N  0.500      SignalP-TM
+
+    SignalP output is explained at https://services.healthtech.dtu.dk/services/SignalP-4.1/
+
+########################################################################################
+
+Name:  3 	Length:  469
+MNPNQKIITIGSVSLTISTICFFMQIAILITTVTLHFKQYEFNSPPNNQVMLCEPTIIXRNITEIVYLTNTTIEKEICPK      80
+PAEYRNWSKPQCGITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDPDKCYQFALGQGTTLNNVHSNNTVRDRTPYRTLLM     160
+NELGVPFHLGTKQVCIAWSSSSCHDGKAWLHVCITGDDKNATASFIYNGRLVDSVVSWSKDILRTQESECVCINGTCTVV     240
+MTDGSASGKADTKILFIEEGKIVHTSTLSGSAQHVEECSCYPRYPGVRCVCRDNWKGSNRPIVDINIKDHSIVSSYVCSG     320
+LVGDTPRKNDSSSSSHCLDPNNEEGGHGVKGWAFDDGNDVWMGRTINETSRLGYETFKVIEGWSNPKSKLQTNRQVIVDR     400
+GDRSGYSGIFSVEGKSCINRCFYVELIRGRKEETEVLWTSNSIVVFCGTSGTYGTGSWPDGADLNLMPI                480
+............................................................N........N..........      80
+.....N...........................................................N..............     160
+.........................................................................N......     240
+................................................................................     320
+..............................................N.................................     400
+.....................................................................                480
+
+(Threshold=0.5)
+----------------------------------------------------------------------
+SeqName      Position  Potential   Jury    N-Glyc
+				 agreement result
+----------------------------------------------------------------------
+3             61 NITE   0.7618     (9/9)   +++   
+3             70 NTTI   0.5454     (6/9)   +     
+3             86 NWSK   0.6021     (8/9)   +     
+3            146 NNTV   0.5967     (8/9)   +     
+3            200 NATA   0.3680     (8/9)   -     
+3            234 NGTC   0.7557     (9/9)   +++   
+3            329 NDSS   0.4882     (5/9)   -     
+3            367 NETS   0.5407     (5/9)   +     
+----------------------------------------------------------------------
+
+
+
+Graphics in PostScript
+
+
+
+Output for '4'
+
+########################################################################################
+
+    Warning: This sequence may not contain a signal peptide!!
+
+    Proteins without signal peptides are unlikely to be exposed to
+    the N-glycosylation machinery and thus may not be glycosylated
+    (in vivo) even though they contain potential motifs.
+
+    SignalP-NN euk predictions are as follows:
+
+  # name                Cmax  pos ?  Ymax  pos ?  Smax  pos ?  Smean ?  D     ? 
+  4                          0.131  33  0.176  19  0.358   5  0.264   0.211 N  0.500      SignalP-TM
+
+    SignalP output is explained at https://services.healthtech.dtu.dk/services/SignalP-4.1/
+
+########################################################################################
+
+Name:  4 	Length:  469
+MNPNQKIITIGSVSLTIATICFLMQIAILVTTVTLHFKQYECSSPPNNQVMPCEPTIIERNITEIVYLTNTTIEKEICPK      80
+LVEYRNWSKPQCKITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDPGKCYQFALGQGTTLNNRHSNDTVHDRTPYRTLLM     160
+NELGVPFHLGTKQVCIAWSSSSCHDGKAWLHVCVTGHDKNATASFIYDGRLVDSIGSWSKNILRTQESECVCINGTCTVV     240
+MTDGSASERADTKILFIEEGKIVHISPLSGSAQHVEECSCYPRYPGVRCVCRDNWKGSNRPIVDINVKDYSIVSSYVCSG     320
+LVGDTPRKNDRSSSSYCRNPNNEKGSHGVKGWAFDDGNDVWMGRTIGEELRSGYETFKVIGGWSTPNSKLQINRQVIVDS     400
+GNRSGYSGIFSVEGKSCINRCFYVELIRGREQETRVWWTSNSIVVFCGTSGTYGTGSWPDGADINLMPI                480
+............................................................N........N..........      80
+.....N...........................................................N..............     160
+.........................................................................N......     240
+................................................................................     320
+................................................................................     400
+.....................................................................                480
+
+(Threshold=0.5)
+----------------------------------------------------------------------
+SeqName      Position  Potential   Jury    N-Glyc
+				 agreement result
+----------------------------------------------------------------------
+4             61 NITE   0.7552     (9/9)   +++   
+4             70 NTTI   0.5456     (6/9)   +     
+4             86 NWSK   0.5420     (7/9)   +     
+4            146 NDTV   0.6541     (9/9)   ++    
+4            200 NATA   0.4123     (9/9)   --    
+4            234 NGTC   0.7559     (9/9)   +++   
+4            402 NRSG   0.3278     (8/9)   -     
+----------------------------------------------------------------------
+
+
+
+Graphics in PostScript
+
+
+
+Output for '5'
+
+########################################################################################
+
+    Warning: This sequence may not contain a signal peptide!!
+
+    Proteins without signal peptides are unlikely to be exposed to
+    the N-glycosylation machinery and thus may not be glycosylated
+    (in vivo) even though they contain potential motifs.
+
+    SignalP-NN euk predictions are as follows:
+
+  # name                Cmax  pos ?  Ymax  pos ?  Smax  pos ?  Smean ?  D     ? 
+  5                          0.137  30  0.185  14  0.444   7  0.345   0.249 N  0.500      SignalP-TM
+
+    SignalP output is explained at https://services.healthtech.dtu.dk/services/SignalP-4.1/
+
+########################################################################################
+
+Name:  5 	Length:  469
+MNPNQKIITIGSVSLIIATICFLMQVAILVTTVKLHFKQYDCNSSSNNQVILCEPTIIERNKTEIVYMTNTTVEKEICPK      80
+PAEYRNWSKPQCNIAGFAPFSKDNSIRLSAGGDIWVTREPYVSCDLDKCYQFALGQGTTLNNGHSNDTVHDRTPYRTLLM     160
+NELGVPFHLGTRQVCIAWSSSSCHDGKAWLHVCITGDDENATASFIYNGRLVDSIGSWSKNILRTQESECVCINGTCTVV     240
+MTDGSASGKADTKILFIMEGKIIHVSKLSGSAQHVEECSCYPRYPGVRCICRDNWKGSNRPIVDINVKDYSIVSSYVCSG     320
+LVGDTPRRNDSLSSSHCLDPNNEEGGHGVKGWAFDDGDDVWMGRTINERLRLGYETFKVIKGWSKPNSKLQTNRQIIVEK     400
+GNRSGYSGIFSVEGKNCINRCFYVELIRGRKEETRVWWTSNSIVVFCGTSGTYGTGSWPDGADINLMPI                480
+..........................................N.................N........N..........      80
+.....N...........................................................N..............     160
+.........................................................................N......     240
+................................................................................     320
+........N.......................................................................     400
+.....................................................................                480
+
+(Threshold=0.5)
+----------------------------------------------------------------------
+SeqName      Position  Potential   Jury    N-Glyc
+				 agreement result
+----------------------------------------------------------------------
+5             43 NSSS   0.5580     (6/9)   +     
+5             61 NKTE   0.7313     (9/9)   ++    
+5             70 NTTV   0.5654     (8/9)   +     
+5             86 NWSK   0.6018     (8/9)   +     
+5            146 NDTV   0.7172     (9/9)   ++    
+5            200 NATA   0.4588     (5/9)   -     
+5            234 NGTC   0.7558     (9/9)   +++   
+5            329 NDSL   0.5299     (7/9)   +     
+5            402 NRSG   0.3811     (7/9)   -     
+----------------------------------------------------------------------
+
+
+
+Graphics in PostScript
+
+
+
+Output for '6'
+
+########################################################################################
+
+    Warning: This sequence may not contain a signal peptide!!
+
+    Proteins without signal peptides are unlikely to be exposed to
+    the N-glycosylation machinery and thus may not be glycosylated
+    (in vivo) even though they contain potential motifs.
+
+    SignalP-NN euk predictions are as follows:
+
+  # name                Cmax  pos ?  Ymax  pos ?  Smax  pos ?  Smean ?  D     ? 
+  6                          0.132  33  0.177  11  0.405   5  0.334   0.240 N  0.500      SignalP-TM
+
+    SignalP output is explained at https://services.healthtech.dtu.dk/services/SignalP-4.1/
+
+########################################################################################
+
+Name:  6 	Length:  469
+MNPNQKIITIGSVSLIIATICFLMQIAILVTTVTLHFKQYECDSPANNQVMPCEPIIIERNITEIVYLTNTTIEKEICPK      80
+LVEYRNWSKPQCKITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDPGKCYQFALGQGTTLDNKHSNDTIHDRTPHRTLLM     160
+NELGVPFHLGTRQVCIAWSSSSCHDGKAWLHVCVTGYDKNATASFIYDGRLVDSIGSWSQNILRTQESECVCINGTCTVV     240
+MTDGSASGRADTKILFIEEGKIVHISPLSGSAQHVEECSCYPRYPGVRCICRDNWKGSNRPVVDINVKDYSIDSSYVCSG     320
+LVGDTPRNNDRSSNSYCRNPNNEKGNHGVKGWAFDDGNDVWMGRTISEDSRSGYETFKVIGGWSTPNSKLQINRQVIVDS     400
+DNRSGYSGIFSVEGKSCINRCFYVELIRGREQETRVWWTSNSIVVFCGTSGTYGTGSWPDGADINLMPI                480
+............................................................N........N..........      80
+.....N...........................................................N..............     160
+.........................................................................N......     240
+................................................................................     320
+................................................................................     400
+.....................................................................                480
+
+(Threshold=0.5)
+----------------------------------------------------------------------
+SeqName      Position  Potential   Jury    N-Glyc
+				 agreement result
+----------------------------------------------------------------------
+6             61 NITE   0.7407     (9/9)   ++    
+6             70 NTTI   0.5457     (6/9)   +     
+6             86 NWSK   0.5421     (7/9)   +     
+6            146 NDTI   0.6910     (9/9)   ++    
+6            200 NATA   0.3668     (9/9)   --    
+6            234 NGTC   0.7557     (9/9)   +++   
+6            402 NRSG   0.3268     (9/9)   --    
+----------------------------------------------------------------------
+
+
+
+Graphics in PostScript
+
+
+
+Output for '7'
+
+########################################################################################
+
+    Warning: This sequence may not contain a signal peptide!!
+
+    Proteins without signal peptides are unlikely to be exposed to
+    the N-glycosylation machinery and thus may not be glycosylated
+    (in vivo) even though they contain potential motifs.
+
+    SignalP-NN euk predictions are as follows:
+
+  # name                Cmax  pos ?  Ymax  pos ?  Smax  pos ?  Smean ?  D     ? 
+  7                          0.128  33  0.181  19  0.383   3  0.278   0.220 N  0.500      SignalP-TM
+
+    SignalP output is explained at https://services.healthtech.dtu.dk/services/SignalP-4.1/
+
+########################################################################################
+
+Name:  7 	Length:  469
+MNPNQKIITIGSVSLTIATVCFLMQIAILVTTVTLHFKQYECDSPASNQVMPCEPIIIERNITEIVYLNNTTIEKEICPK      80
+VVEYRNWSKPQCQITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDHGKCYQFALGQGTTLDNKHSNDTIHDRIPHRTLLM     160
+NELGVPFHLGTRQVCIAWSSSSCHDGKAWLHVCITGDDKNATASFIYDGRLVDSIGSWSQNILRTQESECVCINGTCTVV     240
+MTDGSASGRADTRILFIEEGKIVHISPLSGSAQHVEECSCYPRYPGVRCICRDNWKGSNRPVVDINMEDYSIDSSYVCSG     320
+LVGDTPRNDDRSSNSNCRNPNNERGNQGVKGWAFDNGDDVWMGRTISKDLRSGYETFKVIGGWSTPNSKSQINRQVIVDS     400
+DNRSGYSGIFSVEGKSCINRCFYVELIRGRKQETRVWWTSNSIVVFCGTSGTYGTGSWPDGANINFMHI                480
+............................................................N.......NN..........      80
+.....N...........................................................N..............     160
+.........................................................................N......     240
+................................................................................     320
+................................................................................     400
+.....................................................................                480
+
+(Threshold=0.5)
+----------------------------------------------------------------------
+SeqName      Position  Potential   Jury    N-Glyc
+				 agreement result
+----------------------------------------------------------------------
+7             61 NITE   0.7194     (9/9)   ++    
+7             69 NNTT   0.6119     (7/9)   +     
+7             70 NTTI   0.5096     (5/9)   +     
+7             86 NWSK   0.5556     (7/9)   +     
+7            146 NDTI   0.6930     (9/9)   ++    
+7            200 NATA   0.3719     (8/9)   -     
+7            234 NGTC   0.7557     (9/9)   +++   
+7            402 NRSG   0.3266     (9/9)   --    
+----------------------------------------------------------------------
+
+
+
+Graphics in PostScript
+
+
+
+Output for '8'
+
+########################################################################################
+
+    Warning: This sequence may not contain a signal peptide!!
+
+    Proteins without signal peptides are unlikely to be exposed to
+    the N-glycosylation machinery and thus may not be glycosylated
+    (in vivo) even though they contain potential motifs.
+
+    SignalP-NN euk predictions are as follows:
+
+  # name                Cmax  pos ?  Ymax  pos ?  Smax  pos ?  Smean ?  D     ? 
+  8                          0.120  36  0.153  14  0.318  34  0.233   0.185 N  0.500      SignalP-TM
+
+    SignalP output is explained at https://services.healthtech.dtu.dk/services/SignalP-4.1/
+
+########################################################################################
+
+Name:  8 	Length:  469
+MNPNQKIITIGSVSLTISTICFFMQIAILITTVTLHFKQYEFNSPPNNQVMLCEPTIIERNITEIVYLTNTTIEKEICPK      80
+PAEYRNWSKPQCGITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDPDKCYQFALGQGTTLNNVHSNNTVRDRTPYRTLLM     160
+NELGVPFHLGTKQVCIAWSSSSCHDGKAWLHVCITGDDKNATASFIYNGRLIDSVVSWSKDILRTQESECVCINGTCTVV     240
+MTDGNATGKADTKILFIEEGKIVHTSKLSGSAQHVEECSCYPRYPGVRCVCRDNWKGSNRPIVDINIKDHSIVSSYVCSG     320
+LVGDTPRKNDSSSSSHCLNPNNEEGGHGVKGWAFDDGNDVWMGRTINETSRLGYETFKVVEGWSNPKSKLQINRQVIVDR     400
+GDRSGYSGIFSVEGKSCINRCFYVELIRGRKEETEVLWTSNSIVVFCGTSGTYGTGSWPDGADLNLMHI                480
+............................................................N........N..........      80
+.....N...........................................................N..............     160
+.........................................................................N......     240
+................................................................................     320
+........N.....................................N.................................     400
+.....................................................................                480
+
+(Threshold=0.5)
+----------------------------------------------------------------------
+SeqName      Position  Potential   Jury    N-Glyc
+				 agreement result
+----------------------------------------------------------------------
+8             61 NITE   0.7567     (9/9)   +++   
+8             70 NTTI   0.5456     (6/9)   +     
+8             86 NWSK   0.6022     (8/9)   +     
+8            146 NNTV   0.5967     (8/9)   +     
+8            200 NATA   0.3681     (8/9)   -     
+8            234 NGTC   0.7557     (9/9)   +++   
+8            245 NATG   0.4644     (6/9)   -     
+8            329 NDSS   0.5007     (4/9)   +     
+8            367 NETS   0.5407     (5/9)   +     
+----------------------------------------------------------------------
+
+
+
+Graphics in PostScript
+
+
+
+Output for '9'
+
+########################################################################################
+
+    Warning: This sequence may not contain a signal peptide!!
+
+    Proteins without signal peptides are unlikely to be exposed to
+    the N-glycosylation machinery and thus may not be glycosylated
+    (in vivo) even though they contain potential motifs.
+
+    SignalP-NN euk predictions are as follows:
+
+  # name                Cmax  pos ?  Ymax  pos ?  Smax  pos ?  Smean ?  D     ? 
+  9                          0.120  36  0.153  14  0.318  34  0.233   0.185 N  0.500      SignalP-TM
+
+    SignalP output is explained at https://services.healthtech.dtu.dk/services/SignalP-4.1/
+
+########################################################################################
+
+Name:  9 	Length:  469
+MNPNQKIITIGSVSLTISTICFFMQIAILITTVTLHFKQYEFNSPPNNQVMLCEPTIIERNITEIVYLTNTTIEKEICPK      80
+LAEYRNWSKPQCDITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDPDKCYQFALGQGTTLNNVHSNNTVRDRTPYRTLLM     160
+NELGVPFHLGTKQVCIAWSSSSCHDGKAWLHVCITGDDKNATASFIYNGRLVDSVVSWSKEILRTQESECVCINGTCTVV     240
+MTDGSASGKADTKILFIEEGKIVHTSTLSGSAQHVEECSCYPRYPGVRCVCRDNWKGSNRPIVDINIKDHSIVSSYVCSG     320
+LVGDTPRKNDSSSSSHCLDPNNEEGGHGVKGWAFDDGNDVWMGRTISEKSRLGYETFKVIEGWSNPKSKLQINRQVIVDR     400
+GNRSGYSGIFSVEGKSCINRCFYVELIRGRKEETEVLWTSNSIVVFCGTSGTYGTGSWPDGADINLMPI                480
+............................................................N........N..........      80
+.....N...........................................................N..............     160
+.........................................................................N......     240
+................................................................................     320
+................................................................................     400
+.....................................................................                480
+
+(Threshold=0.5)
+----------------------------------------------------------------------
+SeqName      Position  Potential   Jury    N-Glyc
+				 agreement result
+----------------------------------------------------------------------
+9             61 NITE   0.7567     (9/9)   +++   
+9             70 NTTI   0.5453     (6/9)   +     
+9             86 NWSK   0.5964     (8/9)   +     
+9            146 NNTV   0.5968     (8/9)   +     
+9            200 NATA   0.3682     (8/9)   -     
+9            234 NGTC   0.7557     (9/9)   +++   
+9            329 NDSS   0.4882     (5/9)   -     
+9            402 NRSG   0.4074     (6/9)   -     
+----------------------------------------------------------------------
+
+
+
+Graphics in PostScript
+
+
+
+Output for '10'
+
+########################################################################################
+
+    Warning: This sequence may not contain a signal peptide!!
+
+    Proteins without signal peptides are unlikely to be exposed to
+    the N-glycosylation machinery and thus may not be glycosylated
+    (in vivo) even though they contain potential motifs.
+
+    SignalP-NN euk predictions are as follows:
+
+  # name                Cmax  pos ?  Ymax  pos ?  Smax  pos ?  Smean ?  D     ? 
+  10                         0.120  36  0.153  14  0.318  34  0.233   0.185 N  0.500      SignalP-TM
+
+    SignalP output is explained at https://services.healthtech.dtu.dk/services/SignalP-4.1/
+
+########################################################################################
+
+Name:  10 	Length:  469
+MNPNQKIITIGSVSLTISTICFFMQIAILITTVTLHFKQYEFNSPPNNQVMLCEPTIIERNITEIVYLTNTTIEKEICPK      80
+PAEYRNWSKPQCGITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDLDKCYQFALGQGTTLNNVHSNNTVRDRTPYRTLLM     160
+NELGVPFHLGTKQVCIAWSSSSCHDGKAWLHVCITGDDKNATASFIYNGRLVDSVVSWSNDILRTQESECVCINGTCTVV     240
+MTDGNATGKADTKILFIEEGKIVHTSKLSGSAQHVEECSCYPRYPGVRCVCRDNWKGSNRPIIDINIKDHSIVSSYVCSG     320
+LVGDTPRKSDSSSSSHCLNPNNEEGGHGVKGWAFDDGNDVWMGRTINETSRLGYETFKVVEGWSNPKSKLQINRQVIVDK     400
+GDRSGYSGIFSVEGKSCINRCFYVELIRGRKEETEVLWTSNSIVVFCGTSGTYGTGSWPDGADLNLMHI                480
+............................................................N........N..........      80
+.....N...........................................................N..............     160
+.........................................................................N......     240
+................................................................................     320
+..............................................N.................................     400
+.....................................................................                480
+
+(Threshold=0.5)
+----------------------------------------------------------------------
+SeqName      Position  Potential   Jury    N-Glyc
+				 agreement result
+----------------------------------------------------------------------
+10            61 NITE   0.7567     (9/9)   +++   
+10            70 NTTI   0.5454     (6/9)   +     
+10            86 NWSK   0.6022     (8/9)   +     
+10           146 NNTV   0.5967     (8/9)   +     
+10           200 NATA   0.3681     (8/9)   -     
+10           234 NGTC   0.7557     (9/9)   +++   
+10           245 NATG   0.4643     (6/9)   -     
+10           367 NETS   0.5407     (5/9)   +     
+----------------------------------------------------------------------
+
+
+
+Graphics in PostScript
+
+
+
+Output for '11'
+
+########################################################################################
+
+    Warning: This sequence may not contain a signal peptide!!
+
+    Proteins without signal peptides are unlikely to be exposed to
+    the N-glycosylation machinery and thus may not be glycosylated
+    (in vivo) even though they contain potential motifs.
+
+    SignalP-NN euk predictions are as follows:
+
+  # name                Cmax  pos ?  Ymax  pos ?  Smax  pos ?  Smean ?  D     ? 
+  11                         0.120  36  0.153  14  0.318  34  0.233   0.185 N  0.500      SignalP-TM
+
+    SignalP output is explained at https://services.healthtech.dtu.dk/services/SignalP-4.1/
+
+########################################################################################
+
+Name:  11 	Length:  469
+MNPNQKIITIGSVSLTISTICFFMQIAILITTVTLHFKQYEFNSPPNNQVMLCEPTIIERNITEIVYLTNTTIEKEICPK      80
+LAEYRNWSKPQCNITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDPDKCYQFALGQGTTLNNVHSNDTVHDRTPYRTLLM     160
+NELGVPFHLGTKQVCIAWSSSSCHDGKAWLHVCVTGDDKNATASFIYNGRLVDSIVSWSKEILRTQESECVCINGTCTVV     240
+MTDGSASGKADTKILFIEEGKIVHTSTLSGSAQHVEECSCYPRYLGVRCVCRDNWKGSNRPIVDINIKDYSIVSSYVCSG     320
+LVGDTPRKNDSSSSSHCLDPNNEEGGHGVKGWAFDDGNDVWMGRTISEKLRSGYETFKVIEGWSNPNSKLQINRQVIVDR     400
+GNRSGYSGIFSVEGKSCINRCFYVELIRGRKEETEVLWTSNSIVVFCGTSGTYGTGSWPDGADINLMPI                480
+............................................................N........N..........      80
+.....N......N....................................................N..............     160
+.........................................................................N......     240
+................................................................................     320
+................................................................................     400
+.....................................................................                480
+
+(Threshold=0.5)
+----------------------------------------------------------------------
+SeqName      Position  Potential   Jury    N-Glyc
+				 agreement result
+----------------------------------------------------------------------
+11            61 NITE   0.7567     (9/9)   +++   
+11            70 NTTI   0.5453     (6/9)   +     
+11            86 NWSK   0.6048     (8/9)   +     
+11            93 NITG   0.6858     (9/9)   ++    
+11           146 NDTV   0.6424     (9/9)   ++    
+11           200 NATA   0.3616     (9/9)   --    
+11           234 NGTC   0.7557     (9/9)   +++   
+11           329 NDSS   0.4883     (5/9)   -     
+11           402 NRSG   0.4074     (6/9)   -     
+----------------------------------------------------------------------
+
+
+
+Graphics in PostScript
+
+
+
+Output for '12'
+
+########################################################################################
+
+    Warning: This sequence may not contain a signal peptide!!
+
+    Proteins without signal peptides are unlikely to be exposed to
+    the N-glycosylation machinery and thus may not be glycosylated
+    (in vivo) even though they contain potential motifs.
+
+    SignalP-NN euk predictions are as follows:
+
+  # name                Cmax  pos ?  Ymax  pos ?  Smax  pos ?  Smean ?  D     ? 
+  12                         0.130  33  0.170  19  0.343   5  0.250   0.202 N  0.500      SignalP-TM
+
+    SignalP output is explained at https://services.healthtech.dtu.dk/services/SignalP-4.1/
+
+########################################################################################
+
+Name:  12 	Length:  469
+MNPNQKIITIGSVSLTIATICFLMQIAILVTTVTLHFKQYEFNSPPNNQVMLCEPTIIERNITEIVYLTNTTIEKEICPK      80
+PAEYRNWSKPQCGITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDPDKCYQFALGQGTTLNNRHSNDTVHDRTPYRTLLM     160
+NELGVPFHLGTKQVCIAWSSSSCHDGKAWLHVCVTGHDENATASFIYDGRLVDSIGSWSKKILRTQESECVCINGTCTVV     240
+MTDGSASGRADTKILFIEEGKIVHISPLSGSAQHVEECSCYPRYPGVRCVCRDNWKGSNRPIVDINVKDYSIVSSYVCSG     320
+LVGDTPRKNDSSSSSHCLNPNNEEGGHGVKGWAFDDGNDVWMGRTINETSRLGYETFKVIEGWSNPKSKLQINRQVIVDR     400
+GDRSGYSGIFSVEGKSCINRCFYVELIRGRKEETEVLWTSNSIVVFCGTSGTYGTGSWPDGADLNLMPI                480
+............................................................N........N..........      80
+.....N...........................................................N..............     160
+.......................................N.................................N......     240
+................................................................................     320
+........N.....................................N.................................     400
+.....................................................................                480
+
+(Threshold=0.5)
+----------------------------------------------------------------------
+SeqName      Position  Potential   Jury    N-Glyc
+				 agreement result
+----------------------------------------------------------------------
+12            61 NITE   0.7568     (9/9)   +++   
+12            70 NTTI   0.5459     (6/9)   +     
+12            86 NWSK   0.6021     (8/9)   +     
+12           146 NDTV   0.6542     (9/9)   ++    
+12           200 NATA   0.5128     (5/9)   +     
+12           234 NGTC   0.7558     (9/9)   +++   
+12           329 NDSS   0.5006     (4/9)   +     
+12           367 NETS   0.5407     (5/9)   +     
+----------------------------------------------------------------------
+
+
+
+Graphics in PostScript
+
+
+
+Output for '13'
+
+########################################################################################
+
+    Warning: This sequence may not contain a signal peptide!!
+
+    Proteins without signal peptides are unlikely to be exposed to
+    the N-glycosylation machinery and thus may not be glycosylated
+    (in vivo) even though they contain potential motifs.
+
+    SignalP-NN euk predictions are as follows:
+
+  # name                Cmax  pos ?  Ymax  pos ?  Smax  pos ?  Smean ?  D     ? 
+  13                         0.133  33  0.179  11  0.411   5  0.339   0.243 N  0.500      SignalP-TM
+
+    SignalP output is explained at https://services.healthtech.dtu.dk/services/SignalP-4.1/
+
+########################################################################################
+
+Name:  13 	Length:  469
+MNPNQKIITIGSVSLIIATICFLMQIAILVTTVTLHFKQHDYNSPPNNQVMLCEPTIIERNTTEIVYLTNITIEKEICPK      80
+LAEYRNWSKPQCNITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDPDKCYQFALGQGTTLNNRHSNNTVHDRSPYRTLLM     160
+NELGVPFHLGTRQVCIAWSSSSCHDGKAWLHVCITGDDNNATASFIYNGRLVDSIGSWSKNILRTQESECVCINGTCTVV     240
+MTDGSASGKADTKILFIEEGKIVHISTLSGSAQHVEECSCYPRYPGVRCVCRDNWKGSNRPIVDINMKDYSIASSYVCSG     320
+LVGDTPRKNDSFSSSHCLDPNNEKGGHGVKGWAFDDGNDVWMGRTISEEFRLGYETFKVIKGWSNPNSKLQTNRQVIVEK     400
+GNRSGYSGVFSIEDKSCINRCFYVELIRGRKEETKVWWTSNSIVVFCGTSGTYGTGSWPDGADINLMPI                480
+............................................................N........N..........      80
+.....N......N....................................................N..............     160
+.........................................................................N......     240
+................................................................................     320
+................................................................................     400
+.....................................................................                480
+
+(Threshold=0.5)
+----------------------------------------------------------------------
+SeqName      Position  Potential   Jury    N-Glyc
+				 agreement result
+----------------------------------------------------------------------
+13            61 NTTE   0.6994     (9/9)   ++    
+13            70 NITI   0.6336     (8/9)   +     
+13            86 NWSK   0.6049     (8/9)   +     
+13            93 NITG   0.6859     (9/9)   ++    
+13           146 NNTV   0.6308     (8/9)   +     
+13           200 NATA   0.4172     (8/9)   -     
+13           234 NGTC   0.7557     (9/9)   +++   
+13           329 NDSF   0.3584     (9/9)   --    
+13           402 NRSG   0.3712     (7/9)   -     
+----------------------------------------------------------------------
+
+
+
+Graphics in PostScript
+
+
+
+Output for '14'
+
+########################################################################################
+
+    Warning: This sequence may not contain a signal peptide!!
+
+    Proteins without signal peptides are unlikely to be exposed to
+    the N-glycosylation machinery and thus may not be glycosylated
+    (in vivo) even though they contain potential motifs.
+
+    SignalP-NN euk predictions are as follows:
+
+  # name                Cmax  pos ?  Ymax  pos ?  Smax  pos ?  Smean ?  D     ? 
+  14                         0.120  36  0.153  14  0.318  34  0.233   0.185 N  0.500      SignalP-TM
+
+    SignalP output is explained at https://services.healthtech.dtu.dk/services/SignalP-4.1/
+
+########################################################################################
+
+Name:  14 	Length:  469
+MNPNQKIITIGSVSLTISTICFFMQIAILITTVTLHFKQYEFNSPPNNQVMLCEPTIIERNITEIVYLTNTTIEKEICPK      80
+PAEYRNWSKPQCGITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDPDKCYQFALGQGTTLNNVHSNNTVHDRTPYRTLLM     160
+NELGVPFHLGTKQVCIAWSSSSCHDGKAWLHVCITGDDKNATASFIYNGRLVDSVVSWSKEILRTQESECVCINGTCTVV     240
+MTDGSASGKADTKILFIEEGKIVHTSTLSGSAQHVEECSCYPRYPGVRCVCRDNWKGSNRPIVDINIKDHSIVSSYVCSG     320
+LVGDTPRKNDSSSSSHCLDPNNEEGGHGVKGWAFDDGNDVWMGRTINETSRLGYETFKVIEGWSNPKSKLQINRQVIVDR     400
+GDRSGYSGIFSVEGKSCINRCFYVELIRGRKEETEVLWTSNSIVVFCGTSGTYGTGSWPDGADLNLMPI                480
+............................................................N........N..........      80
+.....N...........................................................N..............     160
+.........................................................................N......     240
+................................................................................     320
+..............................................N.................................     400
+.....................................................................                480
+
+(Threshold=0.5)
+----------------------------------------------------------------------
+SeqName      Position  Potential   Jury    N-Glyc
+				 agreement result
+----------------------------------------------------------------------
+14            61 NITE   0.7568     (9/9)   +++   
+14            70 NTTI   0.5454     (6/9)   +     
+14            86 NWSK   0.6021     (8/9)   +     
+14           146 NNTV   0.6033     (8/9)   +     
+14           200 NATA   0.3680     (8/9)   -     
+14           234 NGTC   0.7557     (9/9)   +++   
+14           329 NDSS   0.4884     (5/9)   -     
+14           367 NETS   0.5408     (5/9)   +     
+----------------------------------------------------------------------
+
+
+
+Graphics in PostScript
+
+
+
+Output for '15'
+
+########################################################################################
+
+    Warning: This sequence may not contain a signal peptide!!
+
+    Proteins without signal peptides are unlikely to be exposed to
+    the N-glycosylation machinery and thus may not be glycosylated
+    (in vivo) even though they contain potential motifs.
+
+    SignalP-NN euk predictions are as follows:
+
+  # name                Cmax  pos ?  Ymax  pos ?  Smax  pos ?  Smean ?  D     ? 
+  15                         0.131  33  0.175  36  0.376  29  0.248   0.204 N  0.500      SignalP-TM
+
+    SignalP output is explained at https://services.healthtech.dtu.dk/services/SignalP-4.1/
+
+########################################################################################
+
+Name:  15 	Length:  469
+MNPNQKIITIGSVSLTIATICFLMQIAILVTTVTLHFKQYECNSPPNNQVMLCEPTIIERNITEIVYLTNTTIEKEICPK      80
+LAEYRNWSKPQCKITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDPDKCYQFALGQGTTLNNRHSNDTVHDRTPYRTLLM     160
+NELGVPFHLGTKQVCIAWSSSSCHDGKAWLHVCVTGHDENATASFIYDGRLVDSIGSWSKKILRTQESECVCINGTCTVV     240
+MTDGSASGRADTKILFIEEGKIVHTSKLSGSAQHVEECSCYPRYPGVRCVCRDNWKGSNRPIVDINVKDYSIVSSYVCSG     320
+LVGDTPRKNDSSSSSHCLDPNNEEGGHGVKGWAFDDGNDVWMGRTISEKSRSGYETFKVIEGWSKPNSKLQINRQVIVER     400
+GNMSGYSGIFSVEGKSCINRCFYVELIRGRKQETEVWWTSNSIVVFCGTSGTYGTGSWPDGADINLMPI                480
+............................................................N........N..........      80
+.....N...........................................................N..............     160
+.......................................N.................................N......     240
+................................................................................     320
+................................................................................     400
+.....................................................................                480
+
+(Threshold=0.5)
+----------------------------------------------------------------------
+SeqName      Position  Potential   Jury    N-Glyc
+				 agreement result
+----------------------------------------------------------------------
+15            61 NITE   0.7567     (9/9)   +++   
+15            70 NTTI   0.5456     (6/9)   +     
+15            86 NWSK   0.5920     (8/9)   +     
+15           146 NDTV   0.6542     (9/9)   ++    
+15           200 NATA   0.5126     (5/9)   +     
+15           234 NGTC   0.7557     (9/9)   +++   
+15           329 NDSS   0.4882     (5/9)   -     
+15           402 NMSG   0.4274     (6/9)   -     
+----------------------------------------------------------------------
+
+
+
+Graphics in PostScript
+
+
+
+Output for '16'
+
+########################################################################################
+
+    Warning: This sequence may not contain a signal peptide!!
+
+    Proteins without signal peptides are unlikely to be exposed to
+    the N-glycosylation machinery and thus may not be glycosylated
+    (in vivo) even though they contain potential motifs.
+
+    SignalP-NN euk predictions are as follows:
+
+  # name                Cmax  pos ?  Ymax  pos ?  Smax  pos ?  Smean ?  D     ? 
+  16                         0.120  36  0.151  14  0.299  34  0.227   0.182 N  0.500      SignalP-TM
+
+    SignalP output is explained at https://services.healthtech.dtu.dk/services/SignalP-4.1/
+
+########################################################################################
+
+Name:  16 	Length:  469
+MNPNQKIITIGSVSLTISTICFFMQIAILITTVTLHFKQYEFNSLPNNQVMLCEPTIIERNITEIVYLTNTTIEKEICPK      80
+PAEYRNWSKPQCGITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDLDKCYQFALGQGTTLNNVHSNNTVRDRTPYRTLLM     160
+NELGVPFHLGTKQVCIAWSSSSCHDGKAWLHVCITGDDKNATASFIYNGRLVDSVVSWSNDILRTQESECVCINGTCTVV     240
+MTDGNATGKADTKILFIEEGKIVHTSKLSGSAQHVEECSCYPRYPGVRCVCRDNWKGSNRPIIDINIKDHSIVSSYVCSG     320
+LVGDTPRKSDSSSSSHCLNPNNEEGGHGVKGWAFDDGNDVWMGRTINETSRLGYETFKVVEGWSNPKSKLQINRQVIVDR     400
+GDRSGYSGIFSVEGKSCINRCFYVELIRGRKEETEVLWTSNSIVVFCGTSGTYGTGSWPDGADLNLMHI                480
+............................................................N........N..........      80
+.....N...........................................................N..............     160
+.........................................................................N......     240
+................................................................................     320
+..............................................N.................................     400
+.....................................................................                480
+
+(Threshold=0.5)
+----------------------------------------------------------------------
+SeqName      Position  Potential   Jury    N-Glyc
+				 agreement result
+----------------------------------------------------------------------
+16            61 NITE   0.7567     (9/9)   +++   
+16            70 NTTI   0.5454     (6/9)   +     
+16            86 NWSK   0.6021     (8/9)   +     
+16           146 NNTV   0.5967     (8/9)   +     
+16           200 NATA   0.3679     (8/9)   -     
+16           234 NGTC   0.7557     (9/9)   +++   
+16           245 NATG   0.4643     (6/9)   -     
+16           367 NETS   0.5407     (5/9)   +     
+----------------------------------------------------------------------
+
+
+
+Graphics in PostScript
+
+
+
+Output for '17'
+
+########################################################################################
+
+    Warning: This sequence may not contain a signal peptide!!
+
+    Proteins without signal peptides are unlikely to be exposed to
+    the N-glycosylation machinery and thus may not be glycosylated
+    (in vivo) even though they contain potential motifs.
+
+    SignalP-NN euk predictions are as follows:
+
+  # name                Cmax  pos ?  Ymax  pos ?  Smax  pos ?  Smean ?  D     ? 
+  17                         0.120  36  0.153  14  0.318  34  0.233   0.185 N  0.500      SignalP-TM
+
+    SignalP output is explained at https://services.healthtech.dtu.dk/services/SignalP-4.1/
+
+########################################################################################
+
+Name:  17 	Length:  470
+MNPNQKIITIGSVSLTISTICFFMQIAILITTVTLHFKQYEFNSPPNNQVMLCEPTIIERNITEIVYLTNTTIEREMCPK      80
+PAEFRNWSKPQCGITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDPDKCYQFALGQGTTLDNVHSNNTVRDRTPYRTLLM     160
+NELGVPFHLGTKQVCIAWSSSSCHDGKAWLHVCITGDDKNATASFIYNGRLVDSVVSWSKDILRTQESECVCINGTCTVV     240
+MTDGSASGKADTKILFIEEGKIVHTSKLSGSAQHVEECSCYPRYPGVRCVCRDNWKGSNRPIVDINIKDHSIVSSYVCSG     320
+LVGDTPRKNDSSSSSHCLDPNNEEGGHGVKGWAFDDGNDVWMGRTINETSRLGYETFKVIEGWSNPKSKLQINRQVIVDR     400
+GDRSGYSGIFSVEGKSCINRCFYVELIRGRKEETEVLWTSNSIVVFCGTSGTYGTGSWPDGADLNLMSLF               480
+............................................................N........N..........      80
+.....N...........................................................N..............     160
+.........................................................................N......     240
+................................................................................     320
+..............................................N.................................     400
+......................................................................               480
+
+(Threshold=0.5)
+----------------------------------------------------------------------
+SeqName      Position  Potential   Jury    N-Glyc
+				 agreement result
+----------------------------------------------------------------------
+17            61 NITE   0.7566     (9/9)   +++   
+17            70 NTTI   0.5900     (7/9)   +     
+17            86 NWSK   0.5511     (5/9)   +     
+17           146 NNTV   0.6168     (9/9)   ++    
+17           200 NATA   0.3682     (8/9)   -     
+17           234 NGTC   0.7557     (9/9)   +++   
+17           329 NDSS   0.4883     (5/9)   -     
+17           367 NETS   0.5409     (5/9)   +     
+----------------------------------------------------------------------
+
+
+
+Graphics in PostScript
+
+
+
+Output for '18'
+
+########################################################################################
+
+    Warning: This sequence may not contain a signal peptide!!
+
+    Proteins without signal peptides are unlikely to be exposed to
+    the N-glycosylation machinery and thus may not be glycosylated
+    (in vivo) even though they contain potential motifs.
+
+    SignalP-NN euk predictions are as follows:
+
+  # name                Cmax  pos ?  Ymax  pos ?  Smax  pos ?  Smean ?  D     ? 
+  18                         0.131  33  0.175  36  0.376  29  0.248   0.204 N  0.500      SignalP-TM
+
+    SignalP output is explained at https://services.healthtech.dtu.dk/services/SignalP-4.1/
+
+########################################################################################
+
+Name:  18 	Length:  469
+MNPNQKIITIGSVSLTIATICFLMQIAILVTTVTLHFKQYECNSPPNNQVMLCEPTIIERNITEIVYLTNTTIEKEICPK      80
+LAEYRNWSKPQCKITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDPDKCYQFALGQGTTLNNRHSNDTVHDRTPYRTLLM     160
+NELGVPFHLGTKQVCIAWSSSSCHDGKAWLHVCVTGHDENATASFIYDGRLVDSIGSWSKKILRTQESECVCINGTCTVV     240
+MTDGSASGRADTKILFIEEGKIVHISPLSGSAQHVEECSCYPRYSGVRCVCRDNWKGSNRPIVDINVKDYSIVSSYVCSG     320
+LVGDTPRKNDSSSSSHCLNPNNEEGGHGVKGWAFDDGNDVWMGRTISEKLRSGYETFKVIGGWSKPNSKLQINRQVIVDR     400
+GNRSGYSGIFSVEGKSCINRCFYVELIRGRKQETEVWWTSNSIVVFCGTSGTYGTGSWPDGADINLMPI                480
+............................................................N........N..........      80
+.....N...........................................................N..............     160
+.......................................N.................................N......     240
+................................................................................     320
+........N.......................................................................     400
+.....................................................................                480
+
+(Threshold=0.5)
+----------------------------------------------------------------------
+SeqName      Position  Potential   Jury    N-Glyc
+				 agreement result
+----------------------------------------------------------------------
+18            61 NITE   0.7567     (9/9)   +++   
+18            70 NTTI   0.5456     (6/9)   +     
+18            86 NWSK   0.5919     (8/9)   +     
+18           146 NDTV   0.6541     (9/9)   ++    
+18           200 NATA   0.5126     (5/9)   +     
+18           234 NGTC   0.7558     (9/9)   +++   
+18           329 NDSS   0.5004     (4/9)   +     
+18           402 NRSG   0.4076     (6/9)   -     
+----------------------------------------------------------------------
+
+
+
+Graphics in PostScript
+
+
+
+Output for '19'
+
+########################################################################################
+
+    Warning: This sequence may not contain a signal peptide!!
+
+    Proteins without signal peptides are unlikely to be exposed to
+    the N-glycosylation machinery and thus may not be glycosylated
+    (in vivo) even though they contain potential motifs.
+
+    SignalP-NN euk predictions are as follows:
+
+  # name                Cmax  pos ?  Ymax  pos ?  Smax  pos ?  Smean ?  D     ? 
+  19                         0.130  33  0.174  36  0.349   5  0.245   0.202 N  0.500      SignalP-TM
+
+    SignalP output is explained at https://services.healthtech.dtu.dk/services/SignalP-4.1/
+
+########################################################################################
+
+Name:  19 	Length:  469
+MNPNQKIITIGSVSLTIATICFLMQIAILVTTVTLHFKQYECDSPANNQVMPCEPIIIERNITEIVYLTNTTIEKEICPK      80
+LVEYRKWSKPQCKITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDPGKCYQFALGQGTTLDNKHSNDTIHDRIPHRTLLM     160
+NELGVPFHLGTRQVCIAWSSSSCHDGKAWLHVCVTGDDKNATASFIYDGRLVDSIGSWSQNILRTQESECVCINGTCTVV     240
+MTDGSASGRADTRILFIEEGKIVHISPLSGSAQHVEECSCYPRYPGVRCICRDNWKGSNRPVVDINVKDYSIDSSYVCSG     320
+LVGDTPRNNDRSSNSYCRNPNNERGNHGVKGWAFDDGNDVWMGRTISKDSRSGYETFKVIGGWSTPNSKSQINRQVIVDS     400
+DNRSGYSGIFSVEGKSCINRCFYVELIRGREQETRVWWTSNSIVVFCGTSGTYGTGSWPDGADINLMPI                480
+............................................................N........N..........      80
+.................................................................N..............     160
+.........................................................................N......     240
+................................................................................     320
+................................................................................     400
+.....................................................................                480
+
+(Threshold=0.5)
+----------------------------------------------------------------------
+SeqName      Position  Potential   Jury    N-Glyc
+				 agreement result
+----------------------------------------------------------------------
+19            61 NITE   0.7407     (9/9)   ++    
+19            70 NTTI   0.5457     (6/9)   +     
+19           146 NDTI   0.6931     (9/9)   ++    
+19           200 NATA   0.3679     (9/9)   --    
+19           234 NGTC   0.7559     (9/9)   +++   
+19           402 NRSG   0.3267     (9/9)   --    
+----------------------------------------------------------------------
+
+
+
+Graphics in PostScript
+
+
+
+Output for '20'
+
+########################################################################################
+
+    Warning: This sequence may not contain a signal peptide!!
+
+    Proteins without signal peptides are unlikely to be exposed to
+    the N-glycosylation machinery and thus may not be glycosylated
+    (in vivo) even though they contain potential motifs.
+
+    SignalP-NN euk predictions are as follows:
+
+  # name                Cmax  pos ?  Ymax  pos ?  Smax  pos ?  Smean ?  D     ? 
+  20                         0.120  36  0.153  14  0.318  34  0.233   0.185 N  0.500      SignalP-TM
+
+    SignalP output is explained at https://services.healthtech.dtu.dk/services/SignalP-4.1/
+
+########################################################################################
+
+Name:  20 	Length:  469
+MNPNQKIITIGSVSLTISTICFFMQIAILITTVTLHFKQYEFNSPPNNQVMLCEPTIIERNITEIVYLTNTTIEKEICPK      80
+PAEYRNWSKPQCGITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDPDKCYQFALGQGTTLNNVHSNNTVRDRTPYRTLLM     160
+NELGVPFHLGTKQVCIAWSSSSCHDGKAWLHVCITGDDKNATASFIYNGRLVDSVVSWSKDILRTQESECVCINGTCTVV     240
+MTDGNATGKADTKILFIEEGKIVHTSKLSGSAQHVEECSCYPRYPGVRCVCRDNWKGSNRPIVDINIKDHSIVSSYVCSG     320
+LVGDTPRKNDSSSSSHCLYPNNEEGGHGVKGWAFDDGNDVWMGRTINETSRLGYETFKVVEGWSNPKSKLQINRQVIVDR     400
+GDRSGYSGIFSVEGKSCINRCFYVELIRGRKEETEVLWTSNSIVVFCGTSGTYGTGSWPDGADLNLMPI                480
+............................................................N........N..........      80
+.....N...........................................................N..............     160
+.........................................................................N......     240
+................................................................................     320
+..............................................N.................................     400
+.....................................................................                480
+
+(Threshold=0.5)
+----------------------------------------------------------------------
+SeqName      Position  Potential   Jury    N-Glyc
+				 agreement result
+----------------------------------------------------------------------
+20            61 NITE   0.7568     (9/9)   +++   
+20            70 NTTI   0.5454     (6/9)   +     
+20            86 NWSK   0.6021     (8/9)   +     
+20           146 NNTV   0.5967     (8/9)   +     
+20           200 NATA   0.3681     (8/9)   -     
+20           234 NGTC   0.7558     (9/9)   +++   
+20           245 NATG   0.4647     (6/9)   -     
+20           329 NDSS   0.4733     (6/9)   -     
+20           367 NETS   0.5408     (5/9)   +     
+----------------------------------------------------------------------
+
+
+
+Graphics in PostScript
+
+
+
+Output for '21'
+
+########################################################################################
+
+    Warning: This sequence may not contain a signal peptide!!
+
+    Proteins without signal peptides are unlikely to be exposed to
+    the N-glycosylation machinery and thus may not be glycosylated
+    (in vivo) even though they contain potential motifs.
+
+    SignalP-NN euk predictions are as follows:
+
+  # name                Cmax  pos ?  Ymax  pos ?  Smax  pos ?  Smean ?  D     ? 
+  21                         0.120  36  0.153  14  0.318  34  0.233   0.185 N  0.500      SignalP-TM
+
+    SignalP output is explained at https://services.healthtech.dtu.dk/services/SignalP-4.1/
+
+########################################################################################
+
+Name:  21 	Length:  469
+MNPNQKIITIGSVSLTISTICFFMQIAILITTVTLHFKQYEFNSPPNNQVMLCEPTIIERNITEIVYLTNTTIEKEICPK      80
+PAEYRNWSKPQCSITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDPDKCYQFALGQGTTLNNVHSNNTIRDRTPYRTLLM     160
+NELGVPFHLGTKQVCIAWSSSSCHDGKAWLHVCITGDDKNATASFIYNGRLVDSVVSWSKDILRTQESECVCINGTCTVV     240
+MTDGSASGKADTKILFIEEGKIVHTSKLSGSAQHVEECSCYPRYPGVRCVCRDNWKGSNRPIVDINIKDHSIVSSYVCSG     320
+LVGDTPRKNDSSSSSHCSDPNNEEGGHGVKGWAFDDGNDVWMGRTINETSRLGYETLKVIEGWSNPKSKLQTNRQVIVDR     400
+GDRSGYSGIFSVEGKSCINRCFYVELIRGRKEETEVLWTSNSIVVFCGTSGTYGTGSWPDGADLNLMPI                480
+............................................................N........N..........      80
+.....N...........................................................N..............     160
+.........................................................................N......     240
+................................................................................     320
+..............................................N.................................     400
+.....................................................................                480
+
+(Threshold=0.5)
+----------------------------------------------------------------------
+SeqName      Position  Potential   Jury    N-Glyc
+				 agreement result
+----------------------------------------------------------------------
+21            61 NITE   0.7567     (9/9)   +++   
+21            70 NTTI   0.5454     (6/9)   +     
+21            86 NWSK   0.6087     (8/9)   +     
+21           146 NNTI   0.5673     (8/9)   +     
+21           200 NATA   0.3681     (8/9)   -     
+21           234 NGTC   0.7557     (9/9)   +++   
+21           329 NDSS   0.4877     (5/9)   -     
+21           367 NETS   0.5353     (5/9)   +     
+----------------------------------------------------------------------
+
+
+
+Graphics in PostScript
+
+
+
+Output for '22'
+
+########################################################################################
+
+    Warning: This sequence may not contain a signal peptide!!
+
+    Proteins without signal peptides are unlikely to be exposed to
+    the N-glycosylation machinery and thus may not be glycosylated
+    (in vivo) even though they contain potential motifs.
+
+    SignalP-NN euk predictions are as follows:
+
+  # name                Cmax  pos ?  Ymax  pos ?  Smax  pos ?  Smean ?  D     ? 
+  22                         0.128  33  0.181  19  0.383   3  0.278   0.220 N  0.500      SignalP-TM
+
+    SignalP output is explained at https://services.healthtech.dtu.dk/services/SignalP-4.1/
+
+########################################################################################
+
+Name:  22 	Length:  469
+MNPNQKIITIGSVSLTIATVCFLMQIAILVTTVTLHFKQYECDSPASNQVMPCEPIIIERNITEIVYLNNTTIEKEICPK      80
+VVEYRNWSKPQCQITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDHGKCYQFALGQGTTLDNKHSNDTIHDRIPHRTLLM     160
+NELGVPFHLGTRQVCIAWSSSSCHDGKAWLHVCITGDDKNATASFIYDGRLVDSIGSWSQNILRTQESECVCINGTCTVV     240
+MTDGSASGRADTRILFIEEGKIVHISPLSGSAQHVEECSCYPRYPGVRCICRDNWKGSNRPVVDINMEDYSIDSSYVCSG     320
+LVGDTPRNDDRSSNSNCRNPNNERGNQGVKGWAFDNGDDVWMGRTISKDLRSGYETFKVIGGWSTPNSKSQINRQVIVDS     400
+DNRSGYSGIFSVEGKSCINRCFYVELIRGRKQETRVWWTSNSIVVFCGTSGTYGTGSWPDGANINFMPI                480
+............................................................N.......NN..........      80
+.....N...........................................................N..............     160
+.........................................................................N......     240
+................................................................................     320
+................................................................................     400
+.....................................................................                480
+
+(Threshold=0.5)
+----------------------------------------------------------------------
+SeqName      Position  Potential   Jury    N-Glyc
+				 agreement result
+----------------------------------------------------------------------
+22            61 NITE   0.7196     (9/9)   ++    
+22            69 NNTT   0.6119     (7/9)   +     
+22            70 NTTI   0.5097     (5/9)   +     
+22            86 NWSK   0.5556     (7/9)   +     
+22           146 NDTI   0.6930     (9/9)   ++    
+22           200 NATA   0.3719     (8/9)   -     
+22           234 NGTC   0.7558     (9/9)   +++   
+22           402 NRSG   0.3267     (9/9)   --    
+----------------------------------------------------------------------
+
+
+
+Graphics in PostScript
+
+
+
+Output for '23'
+
+########################################################################################
+
+    Warning: This sequence may not contain a signal peptide!!
+
+    Proteins without signal peptides are unlikely to be exposed to
+    the N-glycosylation machinery and thus may not be glycosylated
+    (in vivo) even though they contain potential motifs.
+
+    SignalP-NN euk predictions are as follows:
+
+  # name                Cmax  pos ?  Ymax  pos ?  Smax  pos ?  Smean ?  D     ? 
+  23                         0.130  33  0.173  19  0.351   5  0.257   0.206 N  0.500      SignalP-TM
+
+    SignalP output is explained at https://services.healthtech.dtu.dk/services/SignalP-4.1/
+
+########################################################################################
+
+Name:  23 	Length:  469
+MNPNQKIITIGSVSLTIATICFLMQIAILVTTVTLHFKQYECSSPPNNQVMLCEPTIIERNITEIVYLTNTTIEKEICPK      80
+LAEYRNWSKPQCKITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDPDKCYQFALGQGTTLNNRHSNDTVHDRTPYRTLLM     160
+NELGVPFHLGTKQVCIAWSSSSCHDGKAWLHVCVTGHDENATASFIYDGRLVDSIGSWSKKILRTQESECVCINGTCTVV     240
+MTDGSASGRADTKILFIEEGKIVHISPLSGSAQHVEECSCYPRYPGVRCVCRDNWKGSNRPIVDINVKDYSIVSSYVCSG     320
+LVGDTPRKNDSSSSSHCLNPNNEEGGHGVKGWAFDDGNDVWMGRTISEKFRSGYETFKVIEGWSKPNSKLQINRQVIVDR     400
+GNRSGYSGIFSVEGKSCINRCFYVELIRGRKQETEVWWTSNSIVVFCGTSGTYGTGSWPDGADINLMPI                480
+............................................................N........N..........      80
+.....N...........................................................N..............     160
+.......................................N.................................N......     240
+................................................................................     320
+........N.......................................................................     400
+.....................................................................                480
+
+(Threshold=0.5)
+----------------------------------------------------------------------
+SeqName      Position  Potential   Jury    N-Glyc
+				 agreement result
+----------------------------------------------------------------------
+23            61 NITE   0.7567     (9/9)   +++   
+23            70 NTTI   0.5457     (6/9)   +     
+23            86 NWSK   0.5920     (8/9)   +     
+23           146 NDTV   0.6541     (9/9)   ++    
+23           200 NATA   0.5127     (5/9)   +     
+23           234 NGTC   0.7558     (9/9)   +++   
+23           329 NDSS   0.5008     (4/9)   +     
+23           402 NRSG   0.4076     (6/9)   -     
+----------------------------------------------------------------------
+
+
+
+Graphics in PostScript
+
+
+
+Output for '24'
+
+########################################################################################
+
+    Warning: This sequence may not contain a signal peptide!!
+
+    Proteins without signal peptides are unlikely to be exposed to
+    the N-glycosylation machinery and thus may not be glycosylated
+    (in vivo) even though they contain potential motifs.
+
+    SignalP-NN euk predictions are as follows:
+
+  # name                Cmax  pos ?  Ymax  pos ?  Smax  pos ?  Smean ?  D     ? 
+  24                         0.130  33  0.174  36  0.349   5  0.245   0.202 N  0.500      SignalP-TM
+
+    SignalP output is explained at https://services.healthtech.dtu.dk/services/SignalP-4.1/
+
+########################################################################################
+
+Name:  24 	Length:  469
+MNPNQKIITIGSVSLTIATICFLMQIAILVTTVTLHFKQYECDSPANNQVMPCEPIIIERNITEIVYLTNTTIEKEICPK      80
+LVEYRNWSKPQCKITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDPGKCYQFALGQGTTLENKHSNDTIHDRTPHRTLLM     160
+NELGVPFHLGTRQVCIAWSSSSCHDGKAWLHVCVTGYDKNATASFIYDGRLVDSIGSWSQNILRTQESECVCINGTCTVV     240
+MTDGSASGRADTKILFIEEGKIVHISPLSGSAQHVEECSCYPRYPGVRCICRDNWKGSNRPVVDINVKDYSIDSSYVCSG     320
+LVGDTPRKNDRSSSSYCRNPNNEKGNHGVKGWAFDDGNDVWMGRTISEDSRSGYETFKVIGGWSTPNSKLQINRQVIVDS     400
+ANRSGYSGIFSVEGKSCINRCFYVELIRGREQETRVWWTSNSIVVFCGTSGTYGTGSWPDGADINLMPI                480
+............................................................N........N..........      80
+.....N...........................................................N..............     160
+.........................................................................N......     240
+................................................................................     320
+................................................................................     400
+.....................................................................                480
+
+(Threshold=0.5)
+----------------------------------------------------------------------
+SeqName      Position  Potential   Jury    N-Glyc
+				 agreement result
+----------------------------------------------------------------------
+24            61 NITE   0.7407     (9/9)   ++    
+24            70 NTTI   0.5456     (6/9)   +     
+24            86 NWSK   0.5420     (7/9)   +     
+24           146 NDTI   0.7018     (9/9)   ++    
+24           200 NATA   0.3670     (9/9)   --    
+24           234 NGTC   0.7557     (9/9)   +++   
+24           402 NRSG   0.2718     (9/9)   ---   
+----------------------------------------------------------------------
+
+
+
+Graphics in PostScript
+
+
+
+Output for '25'
+
+########################################################################################
+
+    Warning: This sequence may not contain a signal peptide!!
+
+    Proteins without signal peptides are unlikely to be exposed to
+    the N-glycosylation machinery and thus may not be glycosylated
+    (in vivo) even though they contain potential motifs.
+
+    SignalP-NN euk predictions are as follows:
+
+  # name                Cmax  pos ?  Ymax  pos ?  Smax  pos ?  Smean ?  D     ? 
+  25                         0.123  30  0.157  14  0.307   8  0.247   0.193 N  0.500      SignalP-TM
+
+    SignalP output is explained at https://services.healthtech.dtu.dk/services/SignalP-4.1/
+
+########################################################################################
+
+Name:  25 	Length:  469
+MNPNQKIITIGSVSLTISTICFFMQTAILITIVTLHFKQYEFNSPPNNQVMLCEPTIIERNITEIVYLTNTTIEKEICPK      80
+LAEYRNWSKPQCDITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDPDKCYQFALGQGTTLNNVHSNDTVHDRTPYRTLLM     160
+NELGVPFHLGTKQVCIAWSSSSCHDGKAWLHVCITGDDKNATASFIYNGRLVDSIVSWSKEILRTQESECVCINGTCTVV     240
+MTDGSASGKADTKILFIEEGKIVHTSILSGSAQHVEECSCYPRYPGVRCVCRDNWKGSNRPIVDINIKDHSIVSSYVCSG     320
+LVGDTPRKNDSSSSSHCLDPNNEEGGHGVKGWAFDDGNDVWMGRTISEKSRLGYETFKVIEGWSNPKSKLQINRQVIVDR     400
+GNRSGYSGIFSVEGKSCINRCFYVELIRGRKEETEVLWTSNSIVVFCGTSGTYGTGSWPDGADINLMPI                480
+............................................................N........N..........      80
+.....N...........................................................N..............     160
+.........................................................................N......     240
+................................................................................     320
+................................................................................     400
+.....................................................................                480
+
+(Threshold=0.5)
+----------------------------------------------------------------------
+SeqName      Position  Potential   Jury    N-Glyc
+				 agreement result
+----------------------------------------------------------------------
+25            61 NITE   0.7567     (9/9)   +++   
+25            70 NTTI   0.5453     (6/9)   +     
+25            86 NWSK   0.5964     (8/9)   +     
+25           146 NDTV   0.6426     (9/9)   ++    
+25           200 NATA   0.3681     (8/9)   -     
+25           234 NGTC   0.7556     (9/9)   +++   
+25           329 NDSS   0.4881     (5/9)   -     
+25           402 NRSG   0.4073     (6/9)   -     
+----------------------------------------------------------------------
+
+
+
+Graphics in PostScript
+
+
+
+Output for '26'
+
+########################################################################################
+
+    Warning: This sequence may not contain a signal peptide!!
+
+    Proteins without signal peptides are unlikely to be exposed to
+    the N-glycosylation machinery and thus may not be glycosylated
+    (in vivo) even though they contain potential motifs.
+
+    SignalP-NN euk predictions are as follows:
+
+  # name                Cmax  pos ?  Ymax  pos ?  Smax  pos ?  Smean ?  D     ? 
+  26                         0.120  36  0.153  14  0.318  34  0.233   0.185 N  0.500      SignalP-TM
+
+    SignalP output is explained at https://services.healthtech.dtu.dk/services/SignalP-4.1/
+
+########################################################################################
+
+Name:  26 	Length:  469
+MNPNQKIITIGSVSLTISTICFFMQIAILITTVTLHFKQYEFNSPPNNQVMLCEPTIIERNITEIVYLTNTTIEKEICPK      80
+LAEYRNWSKPQCNITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDPDKCYQFALGQGTTLNNVHSNDTVHDRTPYRTLLM     160
+NELGVPFHLGTKQVCIAWSSSSCHDGKAWLHVCVTGDDENATASFIYNGRLVDSIVSWSKKILRTQESECVCINGTCTVV     240
+MTDGSASGKADTKILFIEEGKIVHTSTLSGSAQHVEECSCYPRYPGVRCVCRDNWKGSNRPIVDINIKDYSIVSSYVCSG     320
+LVGDTPRKNDSSSSSHCLDPNNEEGGHGVKGWAFDDGNDVWMGRTISEKLRSGYETFKVIEGWSNPNSKLQINRQVIVDR     400
+GNRSGYSGIFSVEGKSCINRCFYVELIRGRKQETEVLWTSNSIVVFCGTSGTYGTGSWPDGADINLMPI                480
+............................................................N........N..........      80
+.....N......N....................................................N..............     160
+.........................................................................N......     240
+................................................................................     320
+................................................................................     400
+.....................................................................                480
+
+(Threshold=0.5)
+----------------------------------------------------------------------
+SeqName      Position  Potential   Jury    N-Glyc
+				 agreement result
+----------------------------------------------------------------------
+26            61 NITE   0.7568     (9/9)   +++   
+26            70 NTTI   0.5453     (6/9)   +     
+26            86 NWSK   0.6049     (8/9)   +     
+26            93 NITG   0.6859     (9/9)   ++    
+26           146 NDTV   0.6424     (9/9)   ++    
+26           200 NATA   0.4597     (5/9)   -     
+26           234 NGTC   0.7557     (9/9)   +++   
+26           329 NDSS   0.4882     (5/9)   -     
+26           402 NRSG   0.4074     (6/9)   -     
+----------------------------------------------------------------------
+
+
+
+Graphics in PostScript
+
+
+
+Output for '27'
+
+########################################################################################
+
+    Warning: This sequence may not contain a signal peptide!!
+
+    Proteins without signal peptides are unlikely to be exposed to
+    the N-glycosylation machinery and thus may not be glycosylated
+    (in vivo) even though they contain potential motifs.
+
+    SignalP-NN euk predictions are as follows:
+
+  # name                Cmax  pos ?  Ymax  pos ?  Smax  pos ?  Smean ?  D     ? 
+  27                         0.130  33  0.173  19  0.352  32  0.257   0.207 N  0.500      SignalP-TM
+
+    SignalP output is explained at https://services.healthtech.dtu.dk/services/SignalP-4.1/
+
+########################################################################################
+
+Name:  27 	Length:  469
+MNPNQKIITIGSVSLTIATICFLMQIAILVTTVTLHFKQYECSSPPNNQVVPCEPIIIERNITEIVYLTNTTIEKEICPK      80
+LVEYRNWSKPQCKITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDPGKCYQFALGQGTTLDNKHSNDTIHDRTPYRTLLM     160
+NELGVPFHLGTRQVCIAWSSSSCHDGKAWLHVCITGYDKNATASFIYDGRLVDSIGSWSKNILRTQESECVCINGTCTVV     240
+MTDGSASERADTKILFIEEGKIVHISPLSGSAQHVEECSCYPRYPGVRCVCRDNWKGSNRPVVDINVKDYSIVSSYVCSG     320
+LVGDTPRKNDRSSSSYCRNPNNEKGNHGVKGWAFDDGNDVWMGRTISEESRSGYETFKVIGGWSTPNSKLQINRQVIVDS     400
+GNRSGYSGIFSVEGKSCINRCFYVELIRGREQETRVWWTSNSIVVFCGTSGTYGTGSWPDGADINLMPI                480
+............................................................N........N..........      80
+.....N...........................................................N..............     160
+.........................................................................N......     240
+................................................................................     320
+................................................................................     400
+.....................................................................                480
+
+(Threshold=0.5)
+----------------------------------------------------------------------
+SeqName      Position  Potential   Jury    N-Glyc
+				 agreement result
+----------------------------------------------------------------------
+27            61 NITE   0.7429     (9/9)   ++    
+27            70 NTTI   0.5458     (6/9)   +     
+27            86 NWSK   0.5420     (7/9)   +     
+27           146 NDTI   0.6908     (9/9)   ++    
+27           200 NATA   0.3730     (8/9)   -     
+27           234 NGTC   0.7557     (9/9)   +++   
+27           402 NRSG   0.3278     (8/9)   -     
+----------------------------------------------------------------------
+
+
+
+Graphics in PostScript
+
+
+
+Output for '28'
+
+########################################################################################
+
+    Warning: This sequence may not contain a signal peptide!!
+
+    Proteins without signal peptides are unlikely to be exposed to
+    the N-glycosylation machinery and thus may not be glycosylated
+    (in vivo) even though they contain potential motifs.
+
+    SignalP-NN euk predictions are as follows:
+
+  # name                Cmax  pos ?  Ymax  pos ?  Smax  pos ?  Smean ?  D     ? 
+  28                         0.120  36  0.153  14  0.318  34  0.233   0.185 N  0.500      SignalP-TM
+
+    SignalP output is explained at https://services.healthtech.dtu.dk/services/SignalP-4.1/
+
+########################################################################################
+
+Name:  28 	Length:  469
+MNPNQKIITIGSVSLTISTICFFMQIAILITTVTLHFKQYEFNSPPNNQVMLCEPTIIERNITEIVYLTNTTIEKEICPK      80
+PAEYRNWTKPQCDITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDPDKCYQFALGQGTTLNNVHSNNTARDRTPYRTLLM     160
+SELGVPFHLGTKQVCIAWSSSSCHDGKAWLHVCITGDDKNATASFIYNGRLVDSVVSWSKDILRTQESECVCINGTCTVV     240
+MTDGNATGKADTKILFIEEGKIVHTSKLSGSAQHVEECSCYPRYPGVRCVCRDNWKGSNRPIVDINIKDHSIVSGYVCSG     320
+LVGDTPRKNDSSSSSHCLNPNNEEGVHGVKGWAFDEGNDVWMGRTINETSRLGYETFKVVEGWSNPKSKLQINRQVIVDR     400
+GDRSGYSGIFSVEGKSCINRCFYVELIRGRKEETEVLWTSNSIVVFCGTSGTYGTGSWPDGADLNLMLI                480
+............................................................N........N..........      80
+.....N...........................................................N..............     160
+.........................................................................N......     240
+................................................................................     320
+........N.....................................N.................................     400
+.....................................................................                480
+
+(Threshold=0.5)
+----------------------------------------------------------------------
+SeqName      Position  Potential   Jury    N-Glyc
+				 agreement result
+----------------------------------------------------------------------
+28            61 NITE   0.7567     (9/9)   +++   
+28            70 NTTI   0.5454     (6/9)   +     
+28            86 NWTK   0.6591     (9/9)   ++    
+28           146 NNTA   0.5371     (6/9)   +     
+28           200 NATA   0.3681     (8/9)   -     
+28           234 NGTC   0.7557     (9/9)   +++   
+28           245 NATG   0.4647     (6/9)   -     
+28           329 NDSS   0.5007     (4/9)   +     
+28           367 NETS   0.5407     (5/9)   +     
+----------------------------------------------------------------------
+
+
+
+Graphics in PostScript
+
+
+
+Output for '29'
+
+########################################################################################
+
+    Warning: This sequence may not contain a signal peptide!!
+
+    Proteins without signal peptides are unlikely to be exposed to
+    the N-glycosylation machinery and thus may not be glycosylated
+    (in vivo) even though they contain potential motifs.
+
+    SignalP-NN euk predictions are as follows:
+
+  # name                Cmax  pos ?  Ymax  pos ?  Smax  pos ?  Smean ?  D     ? 
+  29                         0.120  36  0.153  14  0.318  34  0.233   0.185 N  0.500      SignalP-TM
+
+    SignalP output is explained at https://services.healthtech.dtu.dk/services/SignalP-4.1/
+
+########################################################################################
+
+Name:  29 	Length:  469
+MNPNQKIITIGSVSLTISTICFFMQIAILITTVTLHFKQYEFNSPPNNQVMLCEPTIIERNITEIVYLTNTTIEKEICPK      80
+LAEYRNWSKPQCDITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDPDKCYQFALGQGTTLNNVHSNNTVRDRTPYRTLLM     160
+NELGVPFHLGTKQVCIAWSSSSCHDGKAWLHVCITGDDKNATASFIYNGRLVDSVVSWSKDILRTQESECVCINGTCAVV     240
+MTDGSASGKADTKILFIEEGKIVHTSTLSGSAQHVEECSCYPRYPGVRCVCRDNWKGSNRPIVDINIKDHSIVSSYVCSG     320
+LVGDTPRKNDSSSSSHCLDPNNEEGGHGVKGWAFDDGNDVWMGRTINETSRLGYETFKVIEGWSNPKSKLQINRQVIVDR     400
+GNRSGYSGIFSVEGKNCINRCFYVELIRGRKEETEVLWTSNSIVVFCGTSGTYGTGSWPDGADLNLMPM                480
+............................................................N........N..........      80
+.....N...........................................................N..............     160
+.........................................................................N......     240
+................................................................................     320
+..............................................N.................................     400
+.....................................................................                480
+
+(Threshold=0.5)
+----------------------------------------------------------------------
+SeqName      Position  Potential   Jury    N-Glyc
+				 agreement result
+----------------------------------------------------------------------
+29            61 NITE   0.7567     (9/9)   +++   
+29            70 NTTI   0.5454     (6/9)   +     
+29            86 NWSK   0.5964     (8/9)   +     
+29           146 NNTV   0.5968     (8/9)   +     
+29           200 NATA   0.3679     (8/9)   -     
+29           234 NGTC   0.7148     (9/9)   ++    
+29           329 NDSS   0.4882     (5/9)   -     
+29           367 NETS   0.5404     (5/9)   +     
+29           402 NRSG   0.4073     (6/9)   -     
+----------------------------------------------------------------------
+
+
+
+Graphics in PostScript
+
+
+
+Output for '30'
+
+########################################################################################
+
+    Warning: This sequence may not contain a signal peptide!!
+
+    Proteins without signal peptides are unlikely to be exposed to
+    the N-glycosylation machinery and thus may not be glycosylated
+    (in vivo) even though they contain potential motifs.
+
+    SignalP-NN euk predictions are as follows:
+
+  # name                Cmax  pos ?  Ymax  pos ?  Smax  pos ?  Smean ?  D     ? 
+  30                         0.120  36  0.153  14  0.318  34  0.233   0.185 N  0.500      SignalP-TM
+
+    SignalP output is explained at https://services.healthtech.dtu.dk/services/SignalP-4.1/
+
+########################################################################################
+
+Name:  30 	Length:  469
+MNPNQKIITIGSVSLTISTICFFMQIAILITTVTLHFKQYEFNSPPNNQVMLCEPTIIERNITEIVYLTNTTIEKEICPK      80
+PAEYRNWSKPQCGITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDLDKCYQFALGQGTTLNNVHSNNTVRDRTPYRTLLM     160
+NELGVPFHLGTKQVCIAWSSSSCHDGKAWLHVCITGDDKNATASFIYNGRLVDSVVSWSNDILRTQESECVCINGTCTVV     240
+MTDGNATGKADTKILFIEEGKIVHTSKLSGSAQHVEECSCYPRYPGVRCVCRDNWKGSNRPIIDINIKDHSIVSSYVCSG     320
+LVGDTPRKSDSSSSSHCLNPNNEEGGHGVKGWAFDDGNDVWMGRTINETSRLGYETFKVVEGWSNPKSKLQINRQVIVDR     400
+GDRSGYSGIFSVEGKSCINRCFYVELIRGRKEETEVLWTSNSIVVFCGTSGTYGTGSWPDGADLNLMHT                480
+............................................................N........N..........      80
+.....N...........................................................N..............     160
+.........................................................................N......     240
+................................................................................     320
+..............................................N.................................     400
+.....................................................................                480
+
+(Threshold=0.5)
+----------------------------------------------------------------------
+SeqName      Position  Potential   Jury    N-Glyc
+				 agreement result
+----------------------------------------------------------------------
+30            61 NITE   0.7567     (9/9)   +++   
+30            70 NTTI   0.5454     (6/9)   +     
+30            86 NWSK   0.6021     (8/9)   +     
+30           146 NNTV   0.5967     (8/9)   +     
+30           200 NATA   0.3680     (8/9)   -     
+30           234 NGTC   0.7557     (9/9)   +++   
+30           245 NATG   0.4643     (6/9)   -     
+30           367 NETS   0.5408     (5/9)   +     
+----------------------------------------------------------------------
+
+
+
+Graphics in PostScript
+
+
+
+Output for '31'
+
+########################################################################################
+
+    Warning: This sequence may not contain a signal peptide!!
+
+    Proteins without signal peptides are unlikely to be exposed to
+    the N-glycosylation machinery and thus may not be glycosylated
+    (in vivo) even though they contain potential motifs.
+
+    SignalP-NN euk predictions are as follows:
+
+  # name                Cmax  pos ?  Ymax  pos ?  Smax  pos ?  Smean ?  D     ? 
+  31                         0.137  30  0.184  14  0.441   7  0.342   0.248 N  0.500      SignalP-TM
+
+    SignalP output is explained at https://services.healthtech.dtu.dk/services/SignalP-4.1/
+
+########################################################################################
+
+Name:  31 	Length:  469
+MNPNQKIITIGSVSLIIATICFLMQVAILVTTVTLHFKQHDCDSSPNNQVMLCEPTIIERNKTEIVYLTNTTVEKEICPK      80
+PAEYRNWSKPQCNITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDPDKCYQFALGQGTTLNNGHSNDTVHDRTPYRTLLM     160
+NELGVPFHLGTRQVCIAWSSSSCHDGKAWLHVCITGDDKNATASFIYNGRLVDSIGSWSKNILRTQESECVCINGTCTVV     240
+MTDGSASGKADTKILFIEEGKIIHISTLSGSAQHVEECSCYPRYPGVRCVCRDNWKGSNRPIVDINVKDYSIVSSYVCSG     320
+LVGDTPRKNDSFSSSHCLDPNNEEGGHGVKGWAFDDGNDVWMGRTISEKSRLGYETFKVIKGWSKPNSKLQTNRQVIVGR     400
+GNRSGYSGIFSVEGKNCINRCFYVELIRGRKEETKVWWTSNSIVVFCGTSGTYGTGSWPDGADINLMPI                480
+............................................................N........N..........      80
+.....N......N....................................................N..............     160
+.........................................................................N......     240
+................................................................................     320
+................................................................................     400
+.N...................................................................                480
+
+(Threshold=0.5)
+----------------------------------------------------------------------
+SeqName      Position  Potential   Jury    N-Glyc
+				 agreement result
+----------------------------------------------------------------------
+31            61 NKTE   0.7418     (9/9)   ++    
+31            70 NTTV   0.5817     (7/9)   +     
+31            86 NWSK   0.6017     (8/9)   +     
+31            93 NITG   0.6858     (9/9)   ++    
+31           146 NDTV   0.7172     (9/9)   ++    
+31           200 NATA   0.3678     (8/9)   -     
+31           234 NGTC   0.7558     (9/9)   +++   
+31           329 NDSF   0.3584     (9/9)   --    
+31           402 NRSG   0.5299     (5/9)   +     
+----------------------------------------------------------------------
+
+
+
+Graphics in PostScript
+
+
+
+Output for '32'
+
+########################################################################################
+
+    Warning: This sequence may not contain a signal peptide!!
+
+    Proteins without signal peptides are unlikely to be exposed to
+    the N-glycosylation machinery and thus may not be glycosylated
+    (in vivo) even though they contain potential motifs.
+
+    SignalP-NN euk predictions are as follows:
+
+  # name                Cmax  pos ?  Ymax  pos ?  Smax  pos ?  Smean ?  D     ? 
+  32                         0.120  36  0.153  14  0.318  34  0.233   0.185 N  0.500      SignalP-TM
+
+    SignalP output is explained at https://services.healthtech.dtu.dk/services/SignalP-4.1/
+
+########################################################################################
+
+Name:  32 	Length:  469
+MNPNQKIITIGSVSLTISTICFFMQIAILITTVTLHFKQYEFNSPPNNQVMLCEPTIIERNITEIVYLTNTTIEKEICPK      80
+LAEYRNWSKPQCDITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDPDKCYQFALGQGTTLNNVHSNDTVHDRTPYRTLLM     160
+NELGVPFHLGTKQVCIAWSSSSCHDGKAWLHVCVTGDDKNATASFIYNGRLVDSIVSWSKEILRTQESECVCINGTCTVV     240
+MTDGSASGKADTKILFIEEGKIVHTSTLSGSAQHVEECSCYPRYPGVRCVCRDNWKGSNRPIVDINIKDYSIVSSYVCSG     320
+LVGDTPRKNDSSSSSHCLDPNNEEGGHGVKGWAFDDGNDVWMGRTISEKLRSGYETFKVIEGWSNPNSKLQINRQVIVDR     400
+GNRSGYSGIFSVEGKSCINRCFYVELIRGRKEETEVLWTSNSIVVFCGTSGTYGTGSWPDGADINLMPI                480
+............................................................N........N..........      80
+.....N...........................................................N..............     160
+.........................................................................N......     240
+................................................................................     320
+................................................................................     400
+.....................................................................                480
+
+(Threshold=0.5)
+----------------------------------------------------------------------
+SeqName      Position  Potential   Jury    N-Glyc
+				 agreement result
+----------------------------------------------------------------------
+32            61 NITE   0.7567     (9/9)   +++   
+32            70 NTTI   0.5454     (6/9)   +     
+32            86 NWSK   0.5964     (8/9)   +     
+32           146 NDTV   0.6426     (9/9)   ++    
+32           200 NATA   0.3617     (9/9)   --    
+32           234 NGTC   0.7557     (9/9)   +++   
+32           329 NDSS   0.4881     (5/9)   -     
+32           402 NRSG   0.4074     (6/9)   -     
+----------------------------------------------------------------------
+
+
+
+Graphics in PostScript
+
+
+
+Output for '33'
+
+########################################################################################
+
+    Warning: This sequence may not contain a signal peptide!!
+
+    Proteins without signal peptides are unlikely to be exposed to
+    the N-glycosylation machinery and thus may not be glycosylated
+    (in vivo) even though they contain potential motifs.
+
+    SignalP-NN euk predictions are as follows:
+
+  # name                Cmax  pos ?  Ymax  pos ?  Smax  pos ?  Smean ?  D     ? 
+  33                         0.122  30  0.159  14  0.322  34  0.253   0.196 N  0.500      SignalP-TM
+
+    SignalP output is explained at https://services.healthtech.dtu.dk/services/SignalP-4.1/
+
+########################################################################################
+
+Name:  33 	Length:  470
+MNPNQKIITIGSVSLTISTICFFMQVAILITTVTLHFKQYEFNSPPNNQVVLCEPTIIERNITEIVYLTNTTIEKEICPK      80
+PAEYRNWSKPQCGITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDPDKCYQFALGQGTTLNNVHSNNTVRDRTPYRTLLM     160
+NELGVPFHLGTKQVCIAWSSSSCHDGKAWLHVCITGDDKNATASFIYNGRLVDSVVSWSKDILRTQESECVCINGTCTVV     240
+MTDGSASGKADTKILFIEEGKIVHTSTLSGSAQHVEECSCYPRYPGVRCVCRDNWKGSNRPIVDINIKDHSIVSSYVCSG     320
+LVGDTPRKNDRSSSSHCSDPNNEEGGHGVKGWAFDDGNDVWMGRTINETSRLGYETFKVIEGWSNPKSKLQINRQVIVDR     400
+GDRSGYSGIFSVEGKSCINRCFYVELIRGRKEETEVLWTSNSIVVFCGTSGTYGTGSWPDGADLNLMPVP               480
+............................................................N........N..........      80
+.....N...........................................................N..............     160
+.........................................................................N......     240
+................................................................................     320
+..............................................N.................................     400
+......................................................................               480
+
+(Threshold=0.5)
+----------------------------------------------------------------------
+SeqName      Position  Potential   Jury    N-Glyc
+				 agreement result
+----------------------------------------------------------------------
+33            61 NITE   0.7578     (9/9)   +++   
+33            70 NTTI   0.5458     (6/9)   +     
+33            86 NWSK   0.6022     (8/9)   +     
+33           146 NNTV   0.5969     (8/9)   +     
+33           200 NATA   0.3683     (8/9)   -     
+33           234 NGTC   0.7559     (9/9)   +++   
+33           367 NETS   0.5409     (5/9)   +     
+----------------------------------------------------------------------
+
+
+
+Graphics in PostScript
+
+
+
+Output for '34'
+
+########################################################################################
+
+    Warning: This sequence may not contain a signal peptide!!
+
+    Proteins without signal peptides are unlikely to be exposed to
+    the N-glycosylation machinery and thus may not be glycosylated
+    (in vivo) even though they contain potential motifs.
+
+    SignalP-NN euk predictions are as follows:
+
+  # name                Cmax  pos ?  Ymax  pos ?  Smax  pos ?  Smean ?  D     ? 
+  34                         0.120  36  0.153  14  0.318  34  0.233   0.185 N  0.500      SignalP-TM
+
+    SignalP output is explained at https://services.healthtech.dtu.dk/services/SignalP-4.1/
+
+########################################################################################
+
+Name:  34 	Length:  469
+MNPNQKIITIGSVSLTISTICFFMQIAILITTVTLHFKQYEFNSPPNNQVMLCEPTIIERNITEIVYLTNTTIEKEICPK      80
+PAEYRNWSKPQCGITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDPDKCYQFALGQGTTLNNVHSNNTVRDRTPYRTLLM     160
+NELGVPFHLGTKQVCIAWSSSSCHDGKAWLHVCITGDDKNATASFIYNGRLVDSVVSWSKDILRTQESECICINGTCTVV     240
+MTDGSASGKADTKILFIEEGKIVHTSTLSGSAQHVEECSCYPRYPGVRCVCRDNWKGSNRPIVDINIKDHSIVSSYVCSG     320
+LVGDTPRKNDSSSSSHCLDPNNEEGGHGVKGWAFDDGNDVWMGRTINETSRLGYETFKVIEGWSNPKSKLQTNRQVIVDR     400
+GDRSGYSGIFSVEGKSCINRCFYVELIRGRKEETEVLWTSNSIVVFCGTSGTYGTGSWPDGADLNLMPI                480
+............................................................N........N..........      80
+.....N...........................................................N..............     160
+.........................................................................N......     240
+................................................................................     320
+..............................................N.................................     400
+.....................................................................                480
+
+(Threshold=0.5)
+----------------------------------------------------------------------
+SeqName      Position  Potential   Jury    N-Glyc
+				 agreement result
+----------------------------------------------------------------------
+34            61 NITE   0.7567     (9/9)   +++   
+34            70 NTTI   0.5453     (6/9)   +     
+34            86 NWSK   0.6022     (8/9)   +     
+34           146 NNTV   0.5967     (8/9)   +     
+34           200 NATA   0.3680     (8/9)   -     
+34           234 NGTC   0.7840     (9/9)   +++   
+34           329 NDSS   0.4883     (5/9)   -     
+34           367 NETS   0.5407     (5/9)   +     
+----------------------------------------------------------------------
+
+
+
+Graphics in PostScript
+
+
+
+Output for '35'
+
+########################################################################################
+
+    Warning: This sequence may not contain a signal peptide!!
+
+    Proteins without signal peptides are unlikely to be exposed to
+    the N-glycosylation machinery and thus may not be glycosylated
+    (in vivo) even though they contain potential motifs.
+
+    SignalP-NN euk predictions are as follows:
+
+  # name                Cmax  pos ?  Ymax  pos ?  Smax  pos ?  Smean ?  D     ? 
+  35                         0.126  36  0.164  14  0.354  34  0.269   0.206 N  0.500      SignalP-TM
+
+    SignalP output is explained at https://services.healthtech.dtu.dk/services/SignalP-4.1/
+
+########################################################################################
+
+Name:  35 	Length:  469
+MNPNQKIITIGSVSLTISTICFLMQIAILITTVTLHFKQYEFNSPPNNQVMLCEPTIIERNITEIVYLTNTTIEKEICPK      80
+LAEYRNWSKPQCDITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDPDKCYQFALGQGTTLNNVHSNNTVRDRTPYRTLLM     160
+NELGVPFHLGTKQVCIAWSSSSCHDGKAWLHVCITGDDKNATASFIYNGKLVDSVVSWSKEILRTQESECVCINGTCTVV     240
+MTDGSASGKADTKILFIEEGKIVHTSTLSGSAQHVEECSCYPRYPGVRCVCRDNWKGSNRPIVDINIKDHSIVSSYVCSG     320
+LVGDTPRKNDRSSSSHCLDPNNEEGGHGVKGWAFDDGNDVWMGRTINETSRLGYETFKVIEGWSNPKSKLQINRQVIVDR     400
+GNRSGYSGIFSVEGKSCINRCFYVELIRGRKEETEVLWTSNSIVVFCGTSGTYGTGSWPDGADLNLMPI                480
+............................................................N........N..........      80
+.....N...........................................................N..............     160
+.........................................................................N......     240
+................................................................................     320
+..............................................N.................................     400
+.....................................................................                480
+
+(Threshold=0.5)
+----------------------------------------------------------------------
+SeqName      Position  Potential   Jury    N-Glyc
+				 agreement result
+----------------------------------------------------------------------
+35            61 NITE   0.7567     (9/9)   +++   
+35            70 NTTI   0.5453     (6/9)   +     
+35            86 NWSK   0.5966     (8/9)   +     
+35           146 NNTV   0.5967     (8/9)   +     
+35           200 NATA   0.3874     (8/9)   -     
+35           234 NGTC   0.7557     (9/9)   +++   
+35           367 NETS   0.5406     (5/9)   +     
+35           402 NRSG   0.4073     (6/9)   -     
+----------------------------------------------------------------------
+
+
+
+Graphics in PostScript
+
+
+
+Output for '36'
+
+########################################################################################
+
+    Warning: This sequence may not contain a signal peptide!!
+
+    Proteins without signal peptides are unlikely to be exposed to
+    the N-glycosylation machinery and thus may not be glycosylated
+    (in vivo) even though they contain potential motifs.
+
+    SignalP-NN euk predictions are as follows:
+
+  # name                Cmax  pos ?  Ymax  pos ?  Smax  pos ?  Smean ?  D     ? 
+  36                         0.131  33  0.175  36  0.376  29  0.248   0.204 N  0.500      SignalP-TM
+
+    SignalP output is explained at https://services.healthtech.dtu.dk/services/SignalP-4.1/
+
+########################################################################################
+
+Name:  36 	Length:  469
+MNPNQKIITIGSVSLTIATICFLMQIAILVTTVTLHFKQYECNSPPNNQVMLCEPTIIERNITEIVYLTNTTIEKEICPK      80
+LAEYRNWSKPQCNITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDPDKCYQFALGQGTTLNNGHSNDTVHDRTPYRTLLM     160
+NELGVPFHLGTKQVCIAWSSSSCHDGKAWLHVCVTGDDENATASFIYNGRLVDSIGSWSKKILRTQESECVCINGTCTVV     240
+MTDGSASGKADTKILFIEEGKIVHTSPLSGSAQHVEECSCYPRYPGVRCVCRDNWKGSNRPIVDINVKDYSIVSSYVCSG     320
+LVGDTPRKNDSSSSSHCLDPNNEEGGHGVKGWAFDDGNDVWMGRTISEKLRSGYETFKVIEGWSKPNSKLQINRQVIVDR     400
+GNRSGYSGIFSVEGKSCINRCFYVELIRGRKQETEVLWTSNSIVVFCGTSGTYGTGSWPDGADINLMPI                480
+............................................................N........N..........      80
+.....N......N....................................................N..............     160
+.........................................................................N......     240
+................................................................................     320
+................................................................................     400
+.....................................................................                480
+
+(Threshold=0.5)
+----------------------------------------------------------------------
+SeqName      Position  Potential   Jury    N-Glyc
+				 agreement result
+----------------------------------------------------------------------
+36            61 NITE   0.7567     (9/9)   +++   
+36            70 NTTI   0.5456     (6/9)   +     
+36            86 NWSK   0.6047     (8/9)   +     
+36            93 NITG   0.6858     (9/9)   ++    
+36           146 NDTV   0.7173     (9/9)   ++    
+36           200 NATA   0.4598     (5/9)   -     
+36           234 NGTC   0.7557     (9/9)   +++   
+36           329 NDSS   0.4882     (5/9)   -     
+36           402 NRSG   0.4073     (6/9)   -     
+----------------------------------------------------------------------
+
+
+
+Graphics in PostScript
+
+
+
+Output for '37'
+
+########################################################################################
+
+    Warning: This sequence may not contain a signal peptide!!
+
+    Proteins without signal peptides are unlikely to be exposed to
+    the N-glycosylation machinery and thus may not be glycosylated
+    (in vivo) even though they contain potential motifs.
+
+    SignalP-NN euk predictions are as follows:
+
+  # name                Cmax  pos ?  Ymax  pos ?  Smax  pos ?  Smean ?  D     ? 
+  37                         0.138  33  0.178  11  0.408   5  0.337   0.242 N  0.500      SignalP-TM
+
+    SignalP output is explained at https://services.healthtech.dtu.dk/services/SignalP-4.1/
+
+########################################################################################
+
+Name:  37 	Length:  469
+MNPNQKIITIGSVSLIIATICFLMQIAILVTTITLHFKQHNCDSSPNNHVMFCEPTIIERNKTEIVYLTNTTVEKEICPK      80
+PTEYRNWSKPQCNITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDQDKCYQFALGQGTTLNNGHSNDTVHDRTPYRTLLM     160
+NELGVPFHLGTRQVCIAWSSSSCHDGKAWLHVCITGDDKNATASLIYNGRLVDSIGSWSKNILRTQESECVCINGTCTVV     240
+MTDGSASGKADTKILFIEEGKIIHISTLSGSAQHVEECSCYPRYSGVRCVCRDNWKGSNRPIVDINVKDYSTVSSYICSG     320
+LVGDTPRKNDSFSSSNCLDPNNEEGGHGVKGWAFDDGNDLWMGRTISEKSRLGYETFKVVKGWSEPNSKLQSNRQVIVDR     400
+GNRSGYSGIFSIEGKNCINRCFYVELIRGRKEETKVLWTSNSIVVFCGTSGTYGTGSWPDGADINLMPI                480
+............................................................N........N..........      80
+.....N......N....................................................N..............     160
+.........................................................................N......     240
+................................................................................     320
+................................................................................     400
+.....................................................................                480
+
+(Threshold=0.5)
+----------------------------------------------------------------------
+SeqName      Position  Potential   Jury    N-Glyc
+				 agreement result
+----------------------------------------------------------------------
+37            61 NKTE   0.7413     (9/9)   ++    
+37            70 NTTV   0.5814     (7/9)   +     
+37            86 NWSK   0.6509     (9/9)   ++    
+37            93 NITG   0.6859     (9/9)   ++    
+37           146 NDTV   0.7171     (9/9)   ++    
+37           200 NATA   0.3507     (8/9)   -     
+37           234 NGTC   0.7557     (9/9)   +++   
+37           329 NDSF   0.3592     (9/9)   --    
+37           402 NRSG   0.4062     (6/9)   -     
+----------------------------------------------------------------------
+
+
+
+Graphics in PostScript
+
+
+
+Output for '38'
+
+########################################################################################
+
+    Warning: This sequence may not contain a signal peptide!!
+
+    Proteins without signal peptides are unlikely to be exposed to
+    the N-glycosylation machinery and thus may not be glycosylated
+    (in vivo) even though they contain potential motifs.
+
+    SignalP-NN euk predictions are as follows:
+
+  # name                Cmax  pos ?  Ymax  pos ?  Smax  pos ?  Smean ?  D     ? 
+  38                         0.120  36  0.153  14  0.318  34  0.233   0.185 N  0.500      SignalP-TM
+
+    SignalP output is explained at https://services.healthtech.dtu.dk/services/SignalP-4.1/
+
+########################################################################################
+
+Name:  38 	Length:  469
+MNPNQKIITIGSVSLTISTICFFMQIAILITTVTLHFKQYEFNSPPNNQVMLCEPTIIERNITEIVYLTNTTIEKEICPK      80
+PAEYRNWSKPQCGITGFAPFSKDNSIRLSAGGDIWVTREPYVSCGPDKCYQFALGQGTTLNNVHSNNTVRDRTPYRTLLM     160
+NELGVPFHLGTKQVCIAWSSSSCHDGKAWLHVCITGDDKNATASFIYNGKLVDSVVSWSKDILRTQESECVCINGTCTVV     240
+MTDGNATGKADTKILFIEEGKIVNTSKLSGSAQHVEECSCYPRYPGVRCVCRDNWKGSNRPIVDINIKDHSIVSSYVCSG     320
+LVGDTPRKNDSSSSSHCLNPNNEKGGHGVKGWAFDDGNDVWMGRTINETSRLGYETFKVVEGWSNHKSKLQINRQVIVDR     400
+GDRSGYSGIFSVEGKSCINRCFYVELIRGRKEETEVLWTSNSIVVFCGTSGTYGTGSWPDGADLNLMHI                480
+............................................................N........N..........      80
+.....N...........................................................N..............     160
+.........................................................................N......     240
+.......................N........................................................     320
+........N.....................................N.................................     400
+.....................................................................                480
+
+(Threshold=0.5)
+----------------------------------------------------------------------
+SeqName      Position  Potential   Jury    N-Glyc
+				 agreement result
+----------------------------------------------------------------------
+38            61 NITE   0.7567     (9/9)   +++   
+38            70 NTTI   0.5454     (6/9)   +     
+38            86 NWSK   0.6021     (8/9)   +     
+38           146 NNTV   0.5967     (8/9)   +     
+38           200 NATA   0.3872     (8/9)   -     
+38           234 NGTC   0.7557     (9/9)   +++   
+38           245 NATG   0.4644     (6/9)   -     
+38           264 NTSK   0.5549     (6/9)   +     
+38           329 NDSS   0.5006     (4/9)   +     
+38           367 NETS   0.5408     (5/9)   +     
+----------------------------------------------------------------------
+
+
+
+Graphics in PostScript
+
+
+
+Output for '39'
+
+########################################################################################
+
+    Warning: This sequence may not contain a signal peptide!!
+
+    Proteins without signal peptides are unlikely to be exposed to
+    the N-glycosylation machinery and thus may not be glycosylated
+    (in vivo) even though they contain potential motifs.
+
+    SignalP-NN euk predictions are as follows:
+
+  # name                Cmax  pos ?  Ymax  pos ?  Smax  pos ?  Smean ?  D     ? 
+  39                         0.130  33  0.173  19  0.351   5  0.257   0.206 N  0.500      SignalP-TM
+
+    SignalP output is explained at https://services.healthtech.dtu.dk/services/SignalP-4.1/
+
+########################################################################################
+
+Name:  39 	Length:  469
+MNPNQKIITIGSVSLTIATICFLMQIAILVTTVTLHFKQYECSSPPNNQVMLCEPTIIERNITEIVYLTNTTIEKEICPK      80
+LAEYRNWSKPQCKITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDPDKCYQFALGQGTTLNNRHSNDTVHDRTPYRTLLM     160
+NELGVPFHLGTKQVCIAWSSSSCHDGKAWLHVCVTGHDENATASFIYDGRLVDSIGSWSKKILRTQESECVCINGTCTVV     240
+MTDGSASGRADTKILFIEEGKIVHISPLSGSAQHVEECSCYPRYPGVRCVCRDNWKGSNRPIVDINVKDYSIVSSYVCSG     320
+LVGDTPRKNDSSSSSHCLNPNNEEGGHGVKGWAFDDGNDVWMGRTISEKFRSGYETFKVIEGWSNPKSKLQINRQVIVDR     400
+GDRSGYSGIFSVEGKSCINRCFYVELIRGRKEETEVLWTSNSIVVFCGTSGTYGTGSWPDGADLNLMPI                480
+............................................................N........N..........      80
+.....N...........................................................N..............     160
+.......................................N.................................N......     240
+................................................................................     320
+........N.......................................................................     400
+.....................................................................                480
+
+(Threshold=0.5)
+----------------------------------------------------------------------
+SeqName      Position  Potential   Jury    N-Glyc
+				 agreement result
+----------------------------------------------------------------------
+39            61 NITE   0.7567     (9/9)   +++   
+39            70 NTTI   0.5456     (6/9)   +     
+39            86 NWSK   0.5919     (8/9)   +     
+39           146 NDTV   0.6543     (9/9)   ++    
+39           200 NATA   0.5127     (5/9)   +     
+39           234 NGTC   0.7557     (9/9)   +++   
+39           329 NDSS   0.5007     (4/9)   +     
+----------------------------------------------------------------------
+
+
+
+Graphics in PostScript
+
+
+
+Output for '40'
+
+########################################################################################
+
+    Warning: This sequence may not contain a signal peptide!!
+
+    Proteins without signal peptides are unlikely to be exposed to
+    the N-glycosylation machinery and thus may not be glycosylated
+    (in vivo) even though they contain potential motifs.
+
+    SignalP-NN euk predictions are as follows:
+
+  # name                Cmax  pos ?  Ymax  pos ?  Smax  pos ?  Smean ?  D     ? 
+  40                         0.121  36  0.153  14  0.336  34  0.234   0.186 N  0.500      SignalP-TM
+
+    SignalP output is explained at https://services.healthtech.dtu.dk/services/SignalP-4.1/
+
+########################################################################################
+
+Name:  40 	Length:  469
+MNPNQKIITIGSVSLTISTICFFMQIAILITTVTLHFKQYEFNPPPNNQVMLCEPTIIERNITEIVYLTNTTIEKEICPK      80
+PAEYRNWSKPQCDITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDPDKCYQFALGQGTTLNNVHSNNTVRDRTPYRTLLM     160
+SELGVPFHLGTKQVCIAWSSSSCHDGKAWLHVCITGDDKNATASFIYNGRLVDSVVSWSKDILRTQESECVCINGTCTVV     240
+MTDGNATGKADTKILFIEEGKIVHTSKLSGSAQHVEECSCYPRYPGVRCVCRDNWKGSNRPIVDINIKNHSIASSYVCSG     320
+LVGDTPRKNDSSSSSHCLNPNNEEGGHGVKGWAFDDGNDVWMGRTINETSRLGYETFKVVEGWSNPKSKLQINRQVIVDR     400
+GDRSGYSGIFSVEGKSCINRCFYVELIRGRKEETEVLWTSNSIVVFCGTSGTYGTGSWPDGADLNLMLI                480
+............................................................N........N..........      80
+.....N...........................................................N..............     160
+.........................................................................N......     240
+................................................................................     320
+........N.....................................N.................................     400
+.....................................................................                480
+
+(Threshold=0.5)
+----------------------------------------------------------------------
+SeqName      Position  Potential   Jury    N-Glyc
+				 agreement result
+----------------------------------------------------------------------
+40            61 NITE   0.7567     (9/9)   +++   
+40            70 NTTI   0.5456     (6/9)   +     
+40            86 NWSK   0.5933     (7/9)   +     
+40           146 NNTV   0.5967     (8/9)   +     
+40           200 NATA   0.3682     (8/9)   -     
+40           234 NGTC   0.7557     (9/9)   +++   
+40           245 NATG   0.4643     (6/9)   -     
+40           309 NHSI   0.2219     (9/9)   ---   
+40           329 NDSS   0.5007     (4/9)   +     
+40           367 NETS   0.5407     (5/9)   +     
+----------------------------------------------------------------------
+
+
+
+Graphics in PostScript
+
+
+
+Output for '41'
+
+########################################################################################
+
+    Warning: This sequence may not contain a signal peptide!!
+
+    Proteins without signal peptides are unlikely to be exposed to
+    the N-glycosylation machinery and thus may not be glycosylated
+    (in vivo) even though they contain potential motifs.
+
+    SignalP-NN euk predictions are as follows:
+
+  # name                Cmax  pos ?  Ymax  pos ?  Smax  pos ?  Smean ?  D     ? 
+  41                         0.120  36  0.153  14  0.318  34  0.233   0.185 N  0.500      SignalP-TM
+
+    SignalP output is explained at https://services.healthtech.dtu.dk/services/SignalP-4.1/
+
+########################################################################################
+
+Name:  41 	Length:  469
+MNPNQKIITIGSVSLTISTICFFMQIAILITTVTLHFKQYEFNSPPNNQVMLCEPTIIERNITEIVYLTNTTIEREICPK      80
+PAEYRNWSKPQCGITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDPDKCYQFALGQGTTINNVHSNNTARDRTPHRTLLM     160
+NELGVPFHLGTKQVCIAWSSSSCHDGKAWLHVCITGDDKNATASFIYNGRLVDSVVSWSKDILRTQESECVCINGTCTVV     240
+MTDGNATGKADTKILFIEEGKIVHTSKLSGSAQHVEECSCYPRYPGVRCVCRDNWKGSNRPIVDINIKDHSIVSSYVCSG     320
+LVGDTPRKTDSSSSSHCLNPNNEKGGHGVKGWAFDDGNDVWMGRTINETSRLGYETFKVVEGWSNPKSKLQINRQVIVDR     400
+GDRSGYSGIFSVEGKSCINRCFYVELIRGRKEETEVLWTSNSIVVFCGTSGTYGTGSWPDGADLNLMHI                480
+............................................................N........N..........      80
+.....N...........................................................N..............     160
+.........................................................................N......     240
+................................................................................     320
+..............................................N.................................     400
+.....................................................................                480
+
+(Threshold=0.5)
+----------------------------------------------------------------------
+SeqName      Position  Potential   Jury    N-Glyc
+				 agreement result
+----------------------------------------------------------------------
+41            61 NITE   0.7567     (9/9)   +++   
+41            70 NTTI   0.5909     (7/9)   +     
+41            86 NWSK   0.6021     (8/9)   +     
+41           146 NNTA   0.5573     (5/9)   +     
+41           200 NATA   0.3680     (8/9)   -     
+41           234 NGTC   0.7557     (9/9)   +++   
+41           245 NATG   0.4647     (6/9)   -     
+41           367 NETS   0.5406     (5/9)   +     
+----------------------------------------------------------------------
+
+
+
+Graphics in PostScript
+
+
+
+Output for '42'
+
+########################################################################################
+
+    Warning: This sequence may not contain a signal peptide!!
+
+    Proteins without signal peptides are unlikely to be exposed to
+    the N-glycosylation machinery and thus may not be glycosylated
+    (in vivo) even though they contain potential motifs.
+
+    SignalP-NN euk predictions are as follows:
+
+  # name                Cmax  pos ?  Ymax  pos ?  Smax  pos ?  Smean ?  D     ? 
+  42                         0.132  33  0.178  11  0.410   5  0.338   0.242 N  0.500      SignalP-TM
+
+    SignalP output is explained at https://services.healthtech.dtu.dk/services/SignalP-4.1/
+
+########################################################################################
+
+Name:  42 	Length:  469
+MNPNQKIITIGSVSLIIATICFLMQIAILVTTVTLHFKQHDYNSPPNNQAMLCEPTIIERNTTEIVYLTNITIEKEICPK      80
+LAEYRNWSKPQCNITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDPDKCYQFALGQGTTLNNGHSNNTVHDRTPYRTLLM     160
+NELGVPFHLGTRQVCMAWSSSSCHDGKAWLHVCITGNDNNATASFIYNGRLVDSIGSWSKNILRTQESECVCINGTCTVV     240
+MTDGSASGKADTKILFVEEGKIVHISTLSGSAQHVEECSCYPRFPGVRCVCRDNWKGSNRPIVDINVKNYSIVSSYVCSG     320
+LVGDTPRKSDSVSSSYCLDPNNEKGGHGVKGWAFDDGNDVWMGRTINETLRLGYETFKVIEGWSKANSKLQTNRQVIVEK     400
+GDRSGYSGIFSVEGKSCINRCFYVELIRGRKEETKVWWTSNSIVVFCGTSGTYGTGSWPDGADINLMPI                480
+............................................................N........N..........      80
+.....N......N....................................................N..............     160
+.........................................................................N......     240
+................................................................................     320
+..............................................N.................................     400
+.....................................................................                480
+
+(Threshold=0.5)
+----------------------------------------------------------------------
+SeqName      Position  Potential   Jury    N-Glyc
+				 agreement result
+----------------------------------------------------------------------
+42            61 NTTE   0.6994     (9/9)   ++    
+42            70 NITI   0.6336     (8/9)   +     
+42            86 NWSK   0.6050     (8/9)   +     
+42            93 NITG   0.6858     (9/9)   ++    
+42           146 NNTV   0.6879     (8/9)   +     
+42           200 NATA   0.4002     (8/9)   -     
+42           234 NGTC   0.7557     (9/9)   +++   
+42           309 NYSI   0.3134     (9/9)   ---   
+42           367 NETL   0.5188     (5/9)   +     
+----------------------------------------------------------------------
+
+
+
+Graphics in PostScript
+
+
+
+Output for '43'
+
+########################################################################################
+
+    Warning: This sequence may not contain a signal peptide!!
+
+    Proteins without signal peptides are unlikely to be exposed to
+    the N-glycosylation machinery and thus may not be glycosylated
+    (in vivo) even though they contain potential motifs.
+
+    SignalP-NN euk predictions are as follows:
+
+  # name                Cmax  pos ?  Ymax  pos ?  Smax  pos ?  Smean ?  D     ? 
+  43                         0.120  36  0.153  14  0.318  34  0.233   0.185 N  0.500      SignalP-TM
+
+    SignalP output is explained at https://services.healthtech.dtu.dk/services/SignalP-4.1/
+
+########################################################################################
+
+Name:  43 	Length:  469
+MNPNQKIITIGSVSLTISTICFFMQIAILITTVTLHFKQYEFNSPPNNQVMLCEPTIIERNITEIVYLTNTTIEKEICPK      80
+PAEYRNWSKPQCGITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDPDKCYQFALGQGTTLNNVHSNNTVRDRTPYRTLLM     160
+NELGVPFHLGTKQVCIAWSSSSCHDGKAWLHVCITGDDKNATASFIYNGRLVDSVVSWSKDILRTQESECVCINGTCTVV     240
+MTDGSASGKADTKILFIEEGKIVHTSTLSGSAQHVEECSCYPRYPGVRCVCRDNWKGSNRPIVDINIKDHSIVSSYVCSG     320
+LVGDTPRKNDSSSSSHCLDPNNEEGGHGVKGWAFDDGNDVWMGRTINETSRLGYETFKVIEGWSNPKSKLQTNRQVIVDR     400
+GDRSGYSGIFSVEGKSCINRCFYVELIRGRKEETEVLWTSNSIVVFCGTSGTYGTGSWPDGADLNLMPI                480
+............................................................N........N..........      80
+.....N...........................................................N..............     160
+.........................................................................N......     240
+................................................................................     320
+..............................................N.................................     400
+.....................................................................                480
+
+(Threshold=0.5)
+----------------------------------------------------------------------
+SeqName      Position  Potential   Jury    N-Glyc
+				 agreement result
+----------------------------------------------------------------------
+43            61 NITE   0.7567     (9/9)   +++   
+43            70 NTTI   0.5453     (6/9)   +     
+43            86 NWSK   0.6021     (8/9)   +     
+43           146 NNTV   0.5968     (8/9)   +     
+43           200 NATA   0.3680     (8/9)   -     
+43           234 NGTC   0.7558     (9/9)   +++   
+43           329 NDSS   0.4883     (5/9)   -     
+43           367 NETS   0.5408     (5/9)   +     
+----------------------------------------------------------------------
+
+
+
+Graphics in PostScript
+
+
+
+Output for '44'
+
+########################################################################################
+
+    Warning: This sequence may not contain a signal peptide!!
+
+    Proteins without signal peptides are unlikely to be exposed to
+    the N-glycosylation machinery and thus may not be glycosylated
+    (in vivo) even though they contain potential motifs.
+
+    SignalP-NN euk predictions are as follows:
+
+  # name                Cmax  pos ?  Ymax  pos ?  Smax  pos ?  Smean ?  D     ? 
+  44                         0.120  36  0.152  14  0.327  34  0.231   0.184 N  0.500      SignalP-TM
+
+    SignalP output is explained at https://services.healthtech.dtu.dk/services/SignalP-4.1/
+
+########################################################################################
+
+Name:  44 	Length:  469
+MNPNQKIITIGSVSLTISTICFFMQIAILITTVTLHFKQYEFNFPPNNQVVLCEPTIIERNITEIVYLTNTTIEKEICPK      80
+PAEYRNWSKPQCGITGFAPFSKDNSIRLSAGGDIWVTREPYVSCDPDKCYQFALGQGTTLNNGHSNNTVRDRTPYRTLLM     160
+NELGVPFHLGTKQVCIAWSSSSCHDGKAWLHVCITGDDKNATASFIYNGRLVDSVVSWSKDILRTQESECVCINGTCTVV     240
+MTDGSASGKADTKILFIEEGKIIHTSTLSGSAQHVEECSCYPRYPGVRCVCRDNWKGSNRPIVDINIKDHSIVSSYVCSG     320
+LVGDTPRKNDSSSSSHCLDPNNEEGGHGVKGWAFDDGNDVWMGRTINETSRLGYETFKVIEGWSNPKSKLQINRQVIVDR     400
+GDRSGYSGIFSVEGKSCINRCFYVELIRGRKEENEVLWTSNSIVVFCGTSGTYGTGSWPDGADLNLMPI                480
+............................................................N........N..........      80
+.....N...........................................................N..............     160
+.........................................................................N......     240
+................................................................................     320
+..............................................N.................................     400
+.....................................................................                480
+
+(Threshold=0.5)
+----------------------------------------------------------------------
+SeqName      Position  Potential   Jury    N-Glyc
+				 agreement result
+----------------------------------------------------------------------
+44            61 NITE   0.7578     (9/9)   +++   
+44            70 NTTI   0.5454     (6/9)   +     
+44            86 NWSK   0.6021     (8/9)   +     
+44           146 NNTV   0.6810     (8/9)   +     
+44           200 NATA   0.3680     (8/9)   -     
+44           234 NGTC   0.7557     (9/9)   +++   
+44           329 NDSS   0.4882     (5/9)   -     
+44           367 NETS   0.5408     (5/9)   +     
+----------------------------------------------------------------------
+
+
+
+Graphics in PostScript
+
+
+
+Go back.
