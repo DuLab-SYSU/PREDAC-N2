@@ -1,1 +1,2 @@
-Data are sequences of H3N2 and the corresponding meta information in GISAID from 1968 to October 2024
+Data are sequences of H3N2 and the corresponding meta information in GISAID from 1968 to October 2024.
+The relevant sampled accession number can be found in the files in mcl_result Directory.
